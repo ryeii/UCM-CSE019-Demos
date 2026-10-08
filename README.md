@@ -24,3 +24,23 @@ The Go example uses a capture-and-liberties heuristic, not a full Go engine. Tim
 Open `index.html` in a browser, or run `python3 -m http.server 8000` from this directory and visit http://localhost:8000/.
 
 Edit the files in `demos/` and push changes to `main` to update the published site.
+
+## Credit
+
+**UC Merced CSE019 Fall 2026**
+
+**Instructor: Ryan Zhiyu An**
+
+Copyright © 2026 Ryan Zhiyu An.
+
+## License
+
+The original content and code in this repository are licensed under the
+[Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You may share and adapt these demos for noncommercial purposes, with appropriate
+credit, a link to the license, and an indication of any changes. Commercial use
+is not licensed. See [LICENSE](LICENSE) for the full terms.
+
+Suggested attribution: “UC Merced CSE019 Fall 2026, Instructor: Ryan Zhiyu An —
+[UCM-CSE019-Demos](https://github.com/ryeii/UCM-CSE019-Demos), CC BY-NC 4.0.”
