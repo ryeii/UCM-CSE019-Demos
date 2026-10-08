@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Python object references</title><link rel="stylesheet" href="references.css"><script src="references.js" defer></script></head><body>
+<div class="shell">
+<nav aria-label="Demos"><a href="../index.html">All demos</a><a href="index.html">For loops</a><a href="references.html" aria-current="page">Object references</a></nav>
+<header><h1>Names point to objects.</h1></header>
+<div class="example-tabs" aria-label="Example"><button id="integers" aria-pressed="true">Integers · reassignment</button><button id="lists" aria-pressed="false">Lists · mutation</button></div>
+<main class="reference-layout">
+<section class="panel"><div class="panel-head"><h2>References</h2><span class="tag" id="counter"></span></div>
+<div class="controls"><button id="back">← Back</button><button id="step" class="primary">Step →</button><button id="play">▶ Play</button><button id="reset">Reset</button><label>Speed <select id="speed"><option value="2200">Slow</option><option value="1300" selected>Normal</option><option value="700">Fast</option></select></label></div>
+<div id="diagram" class="diagram">
+<svg id="arrows" aria-hidden="true"><defs><marker id="arrowhead" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M 0 1 L 7 4 L 0 7" fill="none" stroke="context-stroke" stroke-width="1.5"/></marker></defs><g id="paths"></g></svg>
+<div class="namespace global-space"><h3>Caller <span>global</span></h3><div id="globals"></div></div>
+<div class="namespace local-space" id="local-frame"><h3 id="function-name"></h3><div id="locals"></div><span class="frame-label" id="frame-label"></span></div>
+<div class="objects-label">Objects</div><div id="objects"></div>
+</div>
+<div class="status" aria-live="polite"><strong id="action"></strong><span id="description"></span></div>
+
+</section>
+<section class="panel code-panel"><div class="panel-head"><h2>Python</h2><span class="tag" id="type-label"></span></div><pre class="code"><code id="code"></code></pre><div class="output"><small>Output</small><pre id="output">—</pre></div><div class="return-box"><small>Return value</small><span id="return-value">—</span></div></section>
+</main><footer>Arrows show references. Object labels are illustrative; integer allocation is simplified. Faded objects have no references shown.</footer>
+</div></body></html>
