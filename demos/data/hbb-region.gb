@@ -1,0 +1,1633 @@
+LOCUS       NC_000011              30000 bp    DNA     linear   CON 06-AUG-2025
+DEFINITION  Homo sapiens chromosome 11, GRCh38.p14 Primary Assembly.
+ACCESSION   NC_000011 REGION: 5210001..5240000
+VERSION     NC_000011.10
+DBLINK      BioProject: PRJNA168
+            Assembly: GCF_000001405.40
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 30000)
+  AUTHORS   Gregory,S.G., Barlow,K.F., McLay,K.E., Kaul,R., Swarbreck,D.,
+            Dunham,A., Scott,C.E., Howe,K.L., Woodfine,K., Spencer,C.C.,
+            Jones,M.C., Gillson,C., Searle,S., Zhou,Y., Kokocinski,F.,
+            McDonald,L., Evans,R., Phillips,K., Atkinson,A., Cooper,R.,
+            Jones,C., Hall,R.E., Andrews,T.D., Lloyd,C., Ainscough,R.,
+            Almeida,J.P., Ambrose,K.D., Anderson,F., Andrew,R.W., Ashwell,R.I.,
+            Aubin,K., Babbage,A.K., Bagguley,C.L., Bailey,J., Beasley,H.,
+            Bethel,G., Bird,C.P., Bray-Allen,S., Brown,J.Y., Brown,A.J.,
+            Buckley,D., Burton,J., Bye,J., Carder,C., Chapman,J.C., Clark,S.Y.,
+            Clarke,G., Clee,C., Cobley,V., Collier,R.E., Corby,N.,
+            Coville,G.J., Davies,J., Deadman,R., Dunn,M., Earthrowl,M.,
+            Ellington,A.G., Errington,H., Frankish,A., Frankland,J., French,L.,
+            Garner,P., Garnett,J., Gay,L., Ghori,M.R., Gibson,R., Gilby,L.M.,
+            Gillett,W., Glithero,R.J., Grafham,D.V., Griffiths,C.,
+            Griffiths-Jones,S., Grocock,R., Hammond,S., Harrison,E.S., Hart,E.,
+            Haugen,E., Heath,P.D., Holmes,S., Holt,K., Howden,P.J., Hunt,A.R.,
+            Hunt,S.E., Hunter,G., Isherwood,J., James,R., Johnson,C.,
+            Johnson,D., Joy,A., Kay,M., Kershaw,J.K., Kibukawa,M.,
+            Kimberley,A.M., King,A., Knights,A.J., Lad,H., Laird,G., Lawlor,S.,
+            Leongamornlert,D.A., Lloyd,D.M., Loveland,J., Lovell,J., Lush,M.J.,
+            Lyne,R., Martin,S., Mashreghi-Mohammadi,M., Matthews,L.,
+            Matthews,N.S., McLaren,S., Milne,S., Mistry,S., Moore,M.J.,
+            Nickerson,T., O'Dell,C.N., Oliver,K., Palmeiri,A., Palmer,S.A.,
+            Parker,A., Patel,D., Pearce,A.V., Peck,A.I., Pelan,S., Phelps,K.,
+            Phillimore,B.J., Plumb,R., Rajan,J., Raymond,C., Rouse,G.,
+            Saenphimmachak,C., Sehra,H.K., Sheridan,E., Shownkeen,R., Sims,S.,
+            Skuce,C.D., Smith,M., Steward,C., Subramanian,S., Sycamore,N.,
+            Tracey,A., Tromans,A., Van Helmond,Z., Wall,M., Wallis,J.M.,
+            White,S., Whitehead,S.L., Wilkinson,J.E., Willey,D.L., Williams,H.,
+            Wilming,L., Wray,P.W., Wu,Z., Coulson,A., Vaudin,M., Sulston,J.E.,
+            Durbin,R., Hubbard,T., Wooster,R., Dunham,I., Carter,N.P.,
+            McVean,G., Ross,M.T., Harrow,J., Olson,M.V., Beck,S., Rogers,J.,
+            Bentley,D.R., Banerjee,R., Bryant,S.P., Burford,D.C., Burrill,W.D.,
+            Clegg,S.M., Dhami,P., Dovey,O., Faulkner,L.M., Gribble,S.M.,
+            Langford,C.F., Pandian,R.D., Porter,K.M. and Prigmore,E.
+  TITLE     The DNA sequence and biological annotation of human chromosome 1
+  JOURNAL   Nature 441 (7091), 315-321 (2006)
+   PUBMED   16710414
+  REMARK    Erratum:[Nature. 2006 Oct 26;443(7114):1013. Banerjee, R [added];
+            Bryant, SP [added]; Burford, DC [added]; Burrill, WDH [added];
+            Clegg, SM [added]; Dhami, P [added]; Dovey, O [added]; Faulkner, LM
+            [added]; Gribble, SM [added]; Langford, CF [added]; Pandian, RD
+            [added]; Porter, KM [added]; Prigmore, E [added]]
+REFERENCE   2  (bases 1 to 30000)
+  AUTHORS   Taylor,T.D., Noguchi,H., Totoki,Y., Toyoda,A., Kuroki,Y., Dewar,K.,
+            Lloyd,C., Itoh,T., Takeda,T., Kim,D.W., She,X., Barlow,K.F.,
+            Bloom,T., Bruford,E., Chang,J.L., Cuomo,C.A., Eichler,E.,
+            FitzGerald,M.G., Jaffe,D.B., LaButti,K., Nicol,R., Park,H.S.,
+            Seaman,C., Sougnez,C., Yang,X., Zimmer,A.R., Zody,M.C.,
+            Birren,B.W., Nusbaum,C., Fujiyama,A., Hattori,M., Rogers,J.,
+            Lander,E.S. and Sakaki,Y.
+  TITLE     Human chromosome 11 DNA sequence and analysis including novel gene
+            identification
+  JOURNAL   Nature 440 (7083), 497-500 (2006)
+   PUBMED   16554811
+REFERENCE   3  (bases 1 to 30000)
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Finishing the euchromatic sequence of the human genome
+  JOURNAL   Nature 431 (7011), 931-945 (2004)
+   PUBMED   15496913
+REFERENCE   4  (bases 1 to 30000)
+  AUTHORS   Lander,E.S., Linton,L.M., Birren,B., Nusbaum,C., Zody,M.C.,
+            Baldwin,J., Devon,K., Dewar,K., Doyle,M., FitzHugh,W., Funke,R.,
+            Gage,D., Harris,K., Heaford,A., Howland,J., Kann,L., Lehoczky,J.,
+            LeVine,R., McEwan,P., McKernan,K., Meldrim,J., Mesirov,J.P.,
+            Miranda,C., Morris,W., Naylor,J., Raymond,C., Rosetti,M.,
+            Santos,R., Sheridan,A., Sougnez,C., Stange-Thomann,N.,
+            Stojanovic,N., Subramanian,A., Wyman,D., Rogers,J., Sulston,J.,
+            Ainscough,R., Beck,S., Bentley,D., Burton,J., Clee,C., Carter,N.,
+            Coulson,A., Deadman,R., Deloukas,P., Dunham,A., Dunham,I.,
+            Durbin,R., French,L., Grafham,D., Gregory,S., Hubbard,T.,
+            Humphray,S., Hunt,A., Jones,M., Lloyd,C., McMurray,A., Matthews,L.,
+            Mercer,S., Milne,S., Mullikin,J.C., Mungall,A., Plumb,R., Ross,M.,
+            Shownkeen,R., Sims,S., Waterston,R.H., Wilson,R.K., Hillier,L.W.,
+            McPherson,J.D., Marra,M.A., Mardis,E.R., Fulton,L.A.,
+            Chinwalla,A.T., Pepin,K.H., Gish,W.R., Chissoe,S.L., Wendl,M.C.,
+            Delehaunty,K.D., Miner,T.L., Delehaunty,A., Kramer,J.B., Cook,L.L.,
+            Fulton,R.S., Johnson,D.L., Minx,P.J., Clifton,S.W., Hawkins,T.,
+            Branscomb,E., Predki,P., Richardson,P., Wenning,S., Slezak,T.,
+            Doggett,N., Cheng,J.F., Olsen,A., Lucas,S., Elkin,C.,
+            Uberbacher,E., Frazier,M., Gibbs,R.A., Muzny,D.M., Scherer,S.E.,
+            Bouck,J.B., Sodergren,E.J., Worley,K.C., Rives,C.M., Gorrell,J.H.,
+            Metzker,M.L., Naylor,S.L., Kucherlapati,R.S., Nelson,D.L.,
+            Weinstock,G.M., Sakaki,Y., Fujiyama,A., Hattori,M., Yada,T.,
+            Toyoda,A., Itoh,T., Kawagoe,C., Watanabe,H., Totoki,Y., Taylor,T.,
+            Weissenbach,J., Heilig,R., Saurin,W., Artiguenave,F., Brottier,P.,
+            Bruls,T., Pelletier,E., Robert,C., Wincker,P., Smith,D.R.,
+            Doucette-Stamm,L., Rubenfield,M., Weinstock,K., Lee,H.M.,
+            Dubois,J., Rosenthal,A., Platzer,M., Nyakatura,G., Taudien,S.,
+            Rump,A., Yang,H., Yu,J., Wang,J., Huang,G., Gu,J., Hood,L.,
+            Rowen,L., Madan,A., Qin,S., Davis,R.W., Federspiel,N.A.,
+            Abola,A.P., Proctor,M.J., Myers,R.M., Schmutz,J., Dickson,M.,
+            Grimwood,J., Cox,D.R., Olson,M.V., Kaul,R., Raymond,C., Shimizu,N.,
+            Kawasaki,K., Minoshima,S., Evans,G.A., Athanasiou,M., Schultz,R.,
+            Roe,B.A., Chen,F., Pan,H., Ramser,J., Lehrach,H., Reinhardt,R.,
+            McCombie,W.R., de la Bastide,M., Dedhia,N., Blocker,H.,
+            Hornischer,K., Nordsiek,G., Agarwala,R., Aravind,L., Bailey,J.A.,
+            Bateman,A., Batzoglou,S., Birney,E., Bork,P., Brown,D.G.,
+            Burge,C.B., Cerutti,L., Chen,H.C., Church,D., Clamp,M.,
+            Copley,R.R., Doerks,T., Eddy,S.R., Eichler,E.E., Furey,T.S.,
+            Galagan,J., Gilbert,J.G., Harmon,C., Hayashizaki,Y., Haussler,D.,
+            Hermjakob,H., Hokamp,K., Jang,W., Johnson,L.S., Jones,T.A.,
+            Kasif,S., Kaspryzk,A., Kennedy,S., Kent,W.J., Kitts,P.,
+            Koonin,E.V., Korf,I., Kulp,D., Lancet,D., Lowe,T.M., McLysaght,A.,
+            Mikkelsen,T., Moran,J.V., Mulder,N., Pollara,V.J., Ponting,C.P.,
+            Schuler,G., Schultz,J., Slater,G., Smit,A.F., Stupka,E.,
+            Szustakowski,J., Thierry-Mieg,D., Thierry-Mieg,J., Wagner,L.,
+            Wallis,J., Wheeler,R., Williams,A., Wolf,Y.I., Wolfe,K.H.,
+            Yang,S.P., Yeh,R.F., Collins,F., Guyer,M.S., Peterson,J.,
+            Felsenfeld,A., Wetterstrand,K.A., Patrinos,A., Morgan,M.J., de
+            Jong,P., Catanese,J.J., Osoegawa,K., Shizuya,H., Choi,S. and
+            Chen,Y.J.
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Initial sequencing and analysis of the human genome
+  JOURNAL   Nature 409 (6822), 860-921 (2001)
+   PUBMED   11237011
+  REMARK    Erratum:[Nature 2001 Aug 2;412(6846):565]
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM000673.2.
+            
+            On Feb 3, 2014 this sequence version replaced NC_000011.9.
+            Assembly Name: GRCh38.p14 Primary Assembly
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Human Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            https://genomereference.org.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI RefSeq
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: GCF_000001405.40-RS_2025_08
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 10.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon;
+                                           RefSeqFE; cmsearch; tRNAscan-SE
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            Annotation Date             :: 08/01/2025
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..30000
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="11"
+     misc_feature    12166..19620
+                     /standard_name="origin of replication at HBB"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="regulatory_interactions: HBB-LCR"
+                     /db_xref="GeneID:107133510"
+     rep_origin      12166..17006
+                     /experiment="EXISTENCE:nucleotide analog incorporation
+                     evidence [ECO:0001107][PMID:7481774]"
+                     /note="IR (initiation region); spanning amplicons 59.8 to
+                     65.6; identified by PCR analysis or hybridization of
+                     BrdU-labelled nascent strands with strand-specific probes;
+                     Derived by automated computational analysis using gene
+                     prediction method: RefSeqFE."
+                     /direction=BOTH
+                     /db_xref="GeneID:107133510"
+     regulatory      12930..13428
+                     /regulatory_class="matrix_attachment_region"
+                     /experiment="EXISTENCE:fractionation evidence
+                     [ECO:0000100][PMID:2559410, PMID:3208739]"
+                     /note="3'beta SAR; inferred minimal region flanked by DdeI
+                     and BglII restriction sites; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="associates with nuclear scaffold"
+                     /db_xref="GeneID:107133510"
+     misc_feature    13319..13527
+                     /standard_name="ReSE screen-validated silencer
+                     GRCh37_chr11:5244549-5244757"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:129662861"
+     regulatory      13319..13527
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:32094911]"
+                     /note="fragment chr11:5244549-5244757 (GRCh37/hg19
+                     assembly coordinates); Derived by automated computational
+                     analysis using gene prediction method: RefSeqFE."
+                     /function="represses an EF-1alpha promoter that drives an
+                     FKBP-Casp9 reporter gene in an ReSE screen in HepG2 liver
+                     carcinoma cells {active_cell/tissue: HepG2}"
+                     /db_xref="GeneID:129662861"
+     rep_origin      13775..15457
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:16085752]"
+                     /note="bGRep-E; EcoRV/SwaI fragment; assayed by
+                     quantitative PCR of lambda exonuclease-treated
+                     size-fractionated nascent strands; functions as an origin
+                     of replication in an ectopic location; Derived by
+                     automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /db_xref="GeneID:107133510"
+     rep_origin      13779..17023
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:15060158]"
+                     /note="bGRep-I; NcoI fragment; assayed by quantitative PCR
+                     of lambda exonuclease-treated size-fractionated nascent
+                     strands; functions as an origin of replication in ectopic
+                     locations; Derived by automated computational analysis
+                     using gene prediction method: RefSeqFE."
+                     /db_xref="GeneID:107133510"
+     misc_feature    13780..16590
+                     /standard_name="beta-globin gene 3' regulatory region"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="regulatory_interactions: HBB | HBB-LCR"
+                     /db_xref="GeneID:110006319"
+     regulatory      13780..14891
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:transgenic organism evidence
+                     [ECO:0001131][PMID:2304460]"
+                     /note="1.1 kb HpaII-XbaI fragment deleted in the GB-SH-E
+                     transgene; Derived by automated computational analysis
+                     using gene prediction method: RefSeqFE."
+                     /function="enhances expression of a G-gamma-beta hybrid
+                     transgene 25-fold in mouse embryonic blood cells"
+                     /db_xref="GeneID:110006319"
+     regulatory      13980..15041
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:transgenic organism evidence
+                     [ECO:0001131][PMID:2828176]"
+                     /note="1.06 kb BstNI fragment a; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="activates transcription of a G-gamma-globin
+                     promoter transgene in mouse fetal liver"
+                     /db_xref="GeneID:110006319"
+     regulatory      14441..14940
+                     /regulatory_class="DNase_I_hypersensitive_site"
+                     /experiment="EXISTENCE:in vivo cleavage assay evidence
+                     [ECO:0001075][PMID:6200877]"
+                     /note="beta-globin 3' enhancer hypersensitive site; the
+                     nucleotide coordinates are approximate for this feature;
+                     Derived by automated computational analysis using gene
+                     prediction method: RefSeqFE."
+                     /db_xref="GeneID:110006319"
+     regulatory      14651..14909
+                     /regulatory_class="replication_regulatory_region"
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:16085752]"
+                     /note="0.26 kb PstI fragment deleted in the deltaP
+                     construct; does not have origin activity by itself in a
+                     transgene; Derived by automated computational analysis
+                     using gene prediction method: RefSeqFE."
+                     /function="required but not sufficient for replication at
+                     the HBB IR origin"
+                     /db_xref="GeneID:107133510"
+     regulatory      14651..14909
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:transgenic organism evidence
+                     [ECO:0001131][PMID:8990180, PMID:3478680, PMID:10807795]"
+                     /note="0.26 kb PstI fragment in relevant transgenes;
+                     Derived by automated computational analysis using gene
+                     prediction method: RefSeqFE."
+                     /function="necessary for expression of the HBB gene in a
+                     YAC transgene in fetal liver and adult spleen; activates
+                     an A-gamma-globin marker transgene in fetal liver and
+                     shows an additive effect with an intron 2/exon 3 HBB
+                     enhancer element; required for LCR activity by 5'HS3 in
+                     beta-gamma hybrid transgenes"
+                     /db_xref="GeneID:110006319"
+     rep_origin      14660..14899
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:16085752]"
+                     /note="amplicon 7; peak of nascent strand synthesis
+                     detected by quantitative PCR of lambda exonuclease-treated
+                     nascent strands; Derived by automated computational
+                     analysis using gene prediction method: RefSeqFE."
+                     /db_xref="GeneID:107133510"
+     protein_bind    14669..14694
+                     /experiment="EXISTENCE:protein binding evidence
+                     [ECO:0000024][PMID:2461328, PMID:2911469]"
+                     /note="oligo D NF-E1-binding fragment; Derived by
+                     automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /bound_moiety="GATA binding protein 1"
+                     /db_xref="GeneID:110006319"
+     protein_bind    14704..14733
+                     /experiment="EXISTENCE:protein binding evidence
+                     [ECO:0000024][PMID:2461328, PMID:2911469]"
+                     /note="oligo C NF-E1-binding fragment; Derived by
+                     automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /bound_moiety="GATA binding protein 1"
+                     /db_xref="GeneID:110006319"
+     protein_bind    14757..14782
+                     /experiment="EXISTENCE:protein binding evidence
+                     [ECO:0000024][PMID:2461328, PMID:2911469]"
+                     /note="oligo B NF-E1-binding fragment; Derived by
+                     automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /bound_moiety="GATA binding protein 1"
+                     /db_xref="GeneID:110006319"
+     protein_bind    14872..14897
+                     /experiment="EXISTENCE:protein binding evidence
+                     [ECO:0000024][PMID:2461328, PMID:2911469]"
+                     /note="oligo A NF-E1-binding fragment; Derived by
+                     automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /bound_moiety="GATA binding protein 1"
+                     /db_xref="GeneID:110006319"
+     regulatory      14910..16590
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:transgenic organism evidence
+                     [ECO:0001131][PMID:3478680]"
+                     /note="1.7 kb BamHI-PstI transgene fragment that includes
+                     intron 2 and exon 3 of the beta gene; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="activates an A-gamma-globin marker transgene in
+                     fetal liver and shows an additive effect with the beta 3'
+                     enhancer"
+                     /db_xref="GeneID:110006319"
+     regulatory      15341..15840
+                     /regulatory_class="DNase_I_hypersensitive_site"
+                     /experiment="EXISTENCE:in vivo cleavage assay evidence
+                     [ECO:0001075][PMID:6200877]"
+                     /note="hypersensitive site that overlaps the 3' exon of
+                     the beta-globin gene; the nucleotide coordinates are
+                     approximate for this feature; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:110006319"
+     gene            complement(15464..17071)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="hemoglobin subunit beta; Derived by automated
+                     computational analysis using gene prediction method:
+                     BestRefSeq."
+                     /db_xref="GeneID:3043"
+                     /db_xref="HGNC:HGNC:4827"
+                     /db_xref="MIM:141900"
+     mRNA            complement(join(15464..15726,16577..16799,16930..17071))
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /product="hemoglobin subunit beta"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_000518.5"
+                     /db_xref="Ensembl:ENST00000335295.4"
+                     /db_xref="GeneID:3043"
+                     /db_xref="HGNC:HGNC:4827"
+                     /db_xref="MIM:141900"
+     regulatory      15472..18126
+                     /regulatory_class="replication_regulatory_region"
+                     /experiment="EXISTENCE:nucleotide analog incorporation
+                     evidence [ECO:0001107][PMID:9703500]"
+                     /note="core replicator region (position 61100 to position
+                     63754 of J00179); Derived by automated computational
+                     analysis using gene prediction method: RefSeqFE."
+                     /function="required but not sufficient for replication
+                     origin activity in a transgene in an ectopic location"
+                     /db_xref="GeneID:107133510"
+     CDS             complement(join(15598..15726,16577..16799,16930..17021))
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="hemoglobin subunit beta"
+                     /protein_id="NP_000509.1"
+                     /db_xref="CCDS:CCDS7753.1"
+                     /db_xref="Ensembl:ENSP00000333994.3"
+                     /db_xref="GeneID:3043"
+                     /db_xref="HGNC:HGNC:4827"
+                     /db_xref="MIM:141900"
+                     /translation="MVHLTPEEKSAVTALWGKVNVDEVGGEALGRLLVVYPWTQRFFE
+                     SFGDLSTPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFATLSELHCDKLHVDPE
+                     NFRLLGNVLVCVLAHHFGKEFTPPVQAAYQKVVAGVANALAHKYH"
+     misc_feature    complement(17016..17018)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="N-acetylvaline.
+                     /evidence=ECO:0000250|UniProtKB:P02086; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); acetylation site"
+     misc_feature    complement(17016..17018)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="N-linked (Glc) (glycation) valine, in Hb A1c.
+                     /evidence=ECO:0000269|PubMed:635569; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    complement(16995..17000)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(16995..16997)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    complement(16992..16994)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); phosphorylation site"
+     misc_feature    complement(16983..16985)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); phosphorylation site"
+     misc_feature    complement(16968..16970)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    complement(16941..16946)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(join(16799,16930..16934))
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     mat_peptide     complement(16766..16795)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /product="LVV-hemorphin-7. /id=PRO_0000296641"
+                     /note="propagated from UniProtKB/Swiss-Prot (P68871.2)"
+     mat_peptide     complement(16775..16795)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /product="Spinorphin. /id=PRO_0000424226"
+                     /note="propagated from UniProtKB/Swiss-Prot (P68871.2)"
+     misc_feature    complement(16781..16786)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(16775..16780)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(16757..16759)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); phosphorylation site"
+     misc_feature    complement(16751..16756)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(16739..16741)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); phosphorylation site"
+     misc_feature    complement(16730..16735)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(16718..16723)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(16712..16714)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:4531009; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); acetylation site"
+     misc_feature    complement(16712..16714)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P68871.2); other
+                     site"
+     misc_feature    complement(16691..16693)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    complement(16673..16678)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(16664..16669)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(16643..16645)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="N6-acetyllysine.
+                     /evidence=ECO:0000269|PubMed:4531009; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); acetylation site"
+     misc_feature    complement(16643..16645)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P68871.2); other
+                     site"
+     misc_feature    complement(16634..16639)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(16628..16630)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="Phosphothreonine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); phosphorylation site"
+     misc_feature    complement(16610..16615)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(16604..16606)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="Not glycated. /evidence=ECO:0000269|PubMed:7358733;
+                     propagated from UniProtKB/Swiss-Prot (P68871.2); other
+                     site"
+     misc_feature    complement(join(15724..15726,16577..16579))
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(15706..15711)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(15679..15684)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(15679..15681)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="N-linked (Glc) (glycation) lysine.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    complement(15670..15675)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(15652..15657)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(15616..15621)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(15604..15609)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="(Microbial infection) Cleavage, by N.americanus
+                     apr-2. /evidence=ECO:0000269|PubMed:12552433; propagated
+                     from UniProtKB/Swiss-Prot (P68871.2); other site"
+     misc_feature    complement(15607..15609)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="N-linked (Glc) (glycation) lysine, alternate.
+                     /evidence=ECO:0000269|PubMed:7358733; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); glycosylation site"
+     misc_feature    complement(15607..15609)
+                     /gene="HBB"
+                     /gene_synonym="beta-globin; CD113t-C; ECYT6"
+                     /note="N6-acetyllysine, alternate.
+                     /evidence=ECO:0000269|PubMed:4531009; propagated from
+                     UniProtKB/Swiss-Prot (P68871.2); acetylation site"
+     rep_origin      15673..19620
+                     /experiment="EXISTENCE:genetic transformation evidence
+                     [ECO:0005027][PMID:9892678]"
+                     /note="HindIII/EcoRI fragment; confers replication
+                     activity to a human artificial chromosome (HAC); Derived
+                     by automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /db_xref="GeneID:107133510"
+     regulatory      15673..16600
+                     /regulatory_class="replication_regulatory_region"
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:15060158]"
+                     /note="Rep-I-1 (PmlI/EcoRI fragment); Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="important for replication origin activity"
+                     /db_xref="GeneID:107133510"
+     regulatory      15674..16590
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:deletion mutation evidence
+                     [ECO:0005510][PMID:3432265]"
+                     /experiment="EXISTENCE:transgenic organism evidence
+                     [ECO:0001131][PMID:10807795]"
+                     /note="0.9 kb EcoRI-BamHI fragment spanning intron 2;
+                     region deleted in the H2beta-IVS2 construct; Derived by
+                     automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /function="required for LCR activity by 5'HS3 along with
+                     the beta 3' enhancer in beta-gamma hybrid transgenes;
+                     increases inducibility of the beta-globin gene in
+                     transfected MEL cells"
+                     /db_xref="GeneID:110006319"
+     regulatory      15820..15959
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="active region_4325; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="activates an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:110006319"
+     regulatory      15916..16716
+                     /regulatory_class="DNase_I_hypersensitive_site"
+                     /experiment="EXISTENCE:in vivo cleavage assay evidence
+                     [ECO:0001075][PMID:12397609]"
+                     /note="the nucleotide coordinates are approximate for this
+                     feature; Derived by automated computational analysis using
+                     gene prediction method: RefSeqFE."
+                     /db_xref="GeneID:107133510"
+     regulatory      16074..16590
+                     /regulatory_class="matrix_attachment_region"
+                     /experiment="EXISTENCE:fractionation evidence
+                     [ECO:0000100][PMID:2559410, PMID:3208739]"
+                     /note="beta-IVS2 SAR; Derived by automated computational
+                     analysis using gene prediction method: RefSeqFE."
+                     /function="associates with nuclear scaffold"
+                     /db_xref="GeneID:107133510"
+     regulatory      16264..16513
+                     /regulatory_class="replication_regulatory_region"
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:16877501]"
+                     /note="delta((AG) and(AT)) region; includes RepI-1(AG);
+                     Derived by automated computational analysis using gene
+                     prediction method: RefSeqFE."
+                     /function="contributes to replication origin activity"
+                     /db_xref="GeneID:107133510"
+     regulatory      16357..16371
+                     /regulatory_class="transcriptional_cis_regulatory_region"
+                     /experiment="EXISTENCE:cell transfection experiment
+                     evidence [ECO:0005606][PMID:30867287]"
+                     /note="triplex-forming bases of the beta-globin (L) tfRNA
+                     (5'-UUUUUUUUCUUCUCC-3' on minus strand); Derived by
+                     automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /function="forms DNA-RNA triplex with 5'HS2 of the
+                     HBB-LCR, resulting in reduced expression of the espilon-
+                     and gamma-globin genes in transfected K562 cells, and the
+                     gamma- and beta-globin genes in transfected HUDEP-2 cells"
+                     /db_xref="GeneID:110006319"
+     misc_feature    16570..18834
+                     /standard_name="HBB recombination region"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="recombination_partner: LOC106099063 |
+                     LOC106099064"
+                     /db_xref="GeneID:106099062"
+     misc_recomb     16570..16627
+                     /recombination_class="non_allelic_homologous"
+                     /experiment="EXISTENCE:nucleotide sequencing assay
+                     evidence [ECO:0000219][PMID:2060774]"
+                     /note="sub-region HBB Lepore-Boston-Washington, recombines
+                     with sub-region HBD Lepore-Boston-Washington within the
+                     HBD recombination region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:106099062"
+     rep_origin      16596..18626
+                     /experiment="EXISTENCE:nucleotide analog incorporation
+                     evidence [ECO:0001107][PMID:8255298]"
+                     /note="region containing bidirectional origin of
+                     replication between H and I probe fragments; flanked by
+                     BamHI and BglII restriction sites; identified by
+                     hybridization of BrdU-labelled nascent strands with
+                     strand-specific probes; Derived by automated computational
+                     analysis using gene prediction method: RefSeqFE."
+                     /direction=BOTH
+                     /db_xref="GeneID:107133510"
+     rep_origin      16611..17006
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:10891496]"
+                     /experiment="EXISTENCE:nucleotide analog incorporation
+                     evidence [ECO:0001107][PMID:9703500]"
+                     /note="hbetaG amplicon; peak of nascent strand synthesis
+                     identified by competitive PCR; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /direction=BOTH
+                     /db_xref="GeneID:107133510"
+     misc_recomb     16631..16648
+                     /recombination_class="non_allelic_homologous"
+                     /experiment="EXISTENCE:nucleotide sequencing assay
+                     evidence [ECO:0000219][PMID:2060774]"
+                     /note="sub-region HBB Lepore-Kenya, recombines with
+                     sub-region HBD Lepore-Kenya within the HBG1 recombination
+                     region; Derived by automated computational analysis using
+                     gene prediction method: RefSeqFE."
+                     /db_xref="GeneID:106099062"
+     misc_recomb     16638..16684
+                     /recombination_class="non_allelic_homologous"
+                     /experiment="EXISTENCE:nucleotide sequencing assay
+                     evidence [ECO:0000219][PMID:2060774]"
+                     /note="sub-region HBB Lepore-Baltimore, recombines with
+                     sub-region HBD Lepore-Baltimore within the HBD
+                     recombination region; Derived by automated computational
+                     analysis using gene prediction method: RefSeqFE."
+                     /db_xref="GeneID:106099062"
+     misc_recomb     16642..16795
+                     /recombination_class="non_allelic_homologous"
+                     /experiment="EXISTENCE:nucleotide sequencing assay
+                     evidence [ECO:0000219][PMID:23001912]"
+                     /note="sub-region HBB Lepore-ARUP, recombines with
+                     sub-region HBD Lepore-ARUP within the HBD recombination
+                     region; Derived by automated computational analysis using
+                     gene prediction method: RefSeqFE."
+                     /db_xref="GeneID:106099062"
+     misc_recomb     16882..18834
+                     /recombination_class="meiotic"
+                     /experiment="EXISTENCE:chromatin immunoprecipitation-seq
+                     evidence [ECO:0000229][PMID:25395542]"
+                     /note="meiotic double-strand break mapped by DNA meiotic
+                     recombinase 1 chromatin immunoprecipitation followed by
+                     single-stranded DNA enrichment and sequencing in the germ
+                     cells of some male individuals with PRDM9 A/A, PRDM9 A/B,
+                     and PRDM9 A/C genotypes; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:106099062"
+     misc_recomb     16915..16953
+                     /recombination_class="non_allelic_homologous"
+                     /experiment="EXISTENCE:nucleotide sequencing assay
+                     evidence [ECO:0000219][PMID:2060774]"
+                     /note="sub-region HBB Lepore-Hollandia, recombines with
+                     HBD Lepore-Hollandia within the HBD recombination region;
+                     Derived by automated computational analysis using gene
+                     prediction method: RefSeqFE."
+                     /db_xref="GeneID:106099062"
+     misc_feature    16958..16973
+                     /note="nucleotide motif; similarity to the predicted
+                     16-mer PRDM9 C-type binding motif, CCNCNNTNNNCNTNNC;
+                     Derived by automated computational analysis using gene
+                     prediction method: RefSeqFE."
+                     /db_xref="GeneID:106099062"
+     rep_origin      16986..17366
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:10891496]"
+                     /note="hubetaPr1 amplicon; peak of nascent strand
+                     synthesis identified by competitive PCR of lambda
+                     exonuclease-treated nascent strands; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /direction=BOTH
+                     /db_xref="GeneID:107133510"
+     rep_origin      17018..19620
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:15060158]"
+                     /note="bGRep-P; NcoI fragment; assayed by quantitative PCR
+                     of lambda exonuclease-treated size-fractionated nascent
+                     strands; functions as an origin of replication in ectopic
+                     locations; Derived by automated computational analysis
+                     using gene prediction method: RefSeqFE."
+                     /db_xref="GeneID:107133510"
+     regulatory      17018..17339
+                     /regulatory_class="replication_regulatory_region"
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:15060158]"
+                     /note="Rep-P-2 (NcoI/SnaBI fragment); Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="important for replication origin activity"
+                     /db_xref="GeneID:107133510"
+     regulatory      17090..17134
+                     /regulatory_class="replication_regulatory_region"
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:15060158, PMID:16877501]"
+                     /note="Rep-P(AG); Derived by automated computational
+                     analysis using gene prediction method: RefSeqFE."
+                     /function="contributes to replication origin activity"
+                     /db_xref="GeneID:107133510"
+     regulatory      18528..19328
+                     /regulatory_class="replication_regulatory_region"
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:15060158]"
+                     /note="Rep-P-1 (BamHI fragment); Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="important for replication origin activity"
+                     /db_xref="GeneID:107133510"
+     gene            complement(22838..24483)
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /note="hemoglobin subunit delta; Derived by automated
+                     computational analysis using gene prediction method:
+                     BestRefSeq."
+                     /db_xref="GeneID:3045"
+                     /db_xref="HGNC:HGNC:4829"
+                     /db_xref="MIM:142000"
+     mRNA            complement(join(22838..23092,23991..24213,24342..24483))
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /product="hemoglobin subunit delta"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_000519.4"
+                     /db_xref="Ensembl:ENST00000650601.1"
+                     /db_xref="GeneID:3045"
+                     /db_xref="HGNC:HGNC:4829"
+                     /db_xref="MIM:142000"
+     CDS             complement(join(22964..23092,23991..24213,24342..24433))
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="hemoglobin subunit delta"
+                     /protein_id="NP_000510.1"
+                     /db_xref="CCDS:CCDS31376.1"
+                     /db_xref="Ensembl:ENSP00000497529.1"
+                     /db_xref="GeneID:3045"
+                     /db_xref="HGNC:HGNC:4829"
+                     /db_xref="MIM:142000"
+                     /translation="MVHLTPEEKTAVNALWGKVNVDAVGGEALGRLLVVYPWTQRFFE
+                     SFGDLSSPDAVMGNPKVKAHGKKVLGAFSDGLAHLDNLKGTFSQLSELHCDKLHVDPE
+                     NFRLLGNVLVCVLARNFGKEFTPQMQAAYQKVVAGVANALAHKYH"
+     misc_feature    complement(24428..24430)
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /note="N-acetylalanine, in variant Niigata.
+                     /evidence=ECO:0000269|PubMed:1787103; propagated from
+                     UniProtKB/Swiss-Prot (P02042.2); acetylation site"
+     misc_feature    complement(24153..24155)
+                     /gene="HBD"
+                     /gene_synonym="HBK"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:24275569; propagated from
+                     UniProtKB/Swiss-Prot (P02042.2); phosphorylation site"
+     misc_feature    23984..24365
+                     /standard_name="HBD recombination region"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="recombination_partner: LOC106099062"
+                     /db_xref="GeneID:106099063"
+     misc_recomb     23984..24041
+                     /recombination_class="non_allelic_homologous"
+                     /experiment="EXISTENCE:nucleotide sequencing assay
+                     evidence [ECO:0000219][PMID:2060774]"
+                     /note="sub-region HBD Lepore-Boston-Washington, recombines
+                     with sub-region HBB Lepore-Boston-Washington within the
+                     HBB recombination region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:106099063"
+     misc_recomb     24052..24098
+                     /recombination_class="non_allelic_homologous"
+                     /experiment="EXISTENCE:nucleotide sequencing assay
+                     evidence [ECO:0000219][PMID:2060774]"
+                     /note="sub-region HBD Lepore-Baltimore, recombines with
+                     sub-region HBB Lepore-Baltimore within the HBB
+                     recombination region; Derived by automated computational
+                     analysis using gene prediction method: RefSeqFE."
+                     /db_xref="GeneID:106099063"
+     misc_recomb     24154..24211
+                     /recombination_class="non_allelic_homologous"
+                     /experiment="EXISTENCE:nucleotide sequencing assay
+                     evidence [ECO:0000219][PMID:23001912]"
+                     /note="sub-region HBD Lepore-ARUP, recombines with
+                     sub-region HBB Lepore-ARUP within the HBB recombination
+                     region; Derived by automated computational analysis using
+                     gene prediction method: RefSeqFE."
+                     /db_xref="GeneID:106099063"
+     misc_recomb     24327..24365
+                     /recombination_class="non_allelic_homologous"
+                     /experiment="EXISTENCE:nucleotide sequencing assay
+                     evidence [ECO:0000219][PMID:2060774]"
+                     /note="sub-region HBD Lepore-Hollandia, recombines with
+                     sub-region HBB Lepore-Hollandia within the HBB
+                     recombination region; Derived by automated computational
+                     analysis using gene prediction method: RefSeqFE."
+                     /db_xref="GeneID:106099063"
+     misc_feature    24433..29383
+                     /standard_name="delta-globin 5' regulatory region"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="regulatory_interactions: HBB | HBD | HBG1 |
+                     HBG2"
+                     /db_xref="GeneID:109951029"
+     regulatory      24433..25258
+                     /regulatory_class="promoter"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:22641479]"
+                     /note="826 bp promoter fragment in the p-Ndelta-luc
+                     construct; Derived by automated computational analysis
+                     using gene prediction method: RefSeqFE."
+                     /function="promoter for delta-globin (HBD) gene"
+                     /db_xref="GeneID:109951029"
+     regulatory      24473..24929
+                     /regulatory_class="promoter"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:1515647]"
+                     /note="-446 to +11 delta-globin promoter fragment; Derived
+                     by automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /function="promoter for delta-globin (HBD) gene"
+                     /db_xref="GeneID:109951029"
+     protein_bind    24544..24573
+                     /experiment="EXISTENCE:protein binding evidence
+                     [ECO:0000024][PMID:1515647]"
+                     /note="DNOR GATA-1-binding oligonucleotide; Derived by
+                     automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /bound_moiety="GATA binding protein 1"
+                     /function="necessary for normal delta-globin promoter
+                     activity"
+                     /db_xref="GeneID:109951029"
+     regulatory      24548..24583
+                     /regulatory_class="transcriptional_cis_regulatory_region"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:8916973, PMID:9207479]"
+                     /note="wild-type delta-globin promoter region with a
+                     defective CACCC box and a partial EKLF-binding site;
+                     promoter activity can be upregulated by restoration of the
+                     CCAAT box or by insertion of CACCC motifs; Derived by
+                     automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /function="reduces activity of the delta-globin (HBD)
+                     promoter compared to the equivalent region of the
+                     paralogous beta-globin (HBB) gene"
+                     /db_xref="GeneID:109951029"
+     regulatory      24556..24561
+                     /regulatory_class="transcriptional_cis_regulatory_region"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:1515647]"
+                     /note="GATA-1 motif that shows impaired delta-globin
+                     promoter activity when mutated; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="necessary for GATA-1 binding and normal
+                     delta-globin promoter activity"
+                     /db_xref="GeneID:109951029"
+     regulatory      25196..25704
+                     /regulatory_class="transcriptional_cis_regulatory_region"
+                     /experiment="EXISTENCE:transgenic organism evidence
+                     [ECO:0001131][PMID:9892636]"
+                     /note="0.5 kb BsaBI-BsmI fragment removed in the delta
+                     transgene; Derived by automated computational analysis
+                     using gene prediction method: RefSeqFE."
+                     /function="facilitates the timing of but is not absolutely
+                     required for gamma-to-beta globin gene switching in
+                     transgenic mice"
+                     /db_xref="GeneID:109951029"
+     regulatory      25323..25705
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:8654951]"
+                     /note="383 bp Sau3AI fragment in the pbeta-cat-delta383
+                     construct; includes the entire pyrimidine-rich sequence
+                     and the GATA-1 binding site; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="enhances beta-globin promoter activity in
+                     transfected MEL cells"
+                     /db_xref="GeneID:109951029"
+     misc_structure  25380..25679
+                     /experiment="EXISTENCE:in vitro cleavage assay evidence
+                     [ECO:0001058][PMID:1717993]"
+                     /note="DNA_sequence_secondary_structure; likely H-DNA
+                     structure that is sensitive to S1 nuclease digestion;
+                     includes a 250-bp region with >95% pyrimidines on the
+                     negative strand of the GRCh38 reference genome; binds to
+                     PYR complex; Derived by automated computational analysis
+                     using gene prediction method: RefSeqFE."
+                     /db_xref="GeneID:109951029"
+     regulatory      25389..25487
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:8654951]"
+                     /note="99 bp fragment in the pbeta-cat-delta99 construct;
+                     includes the PYR binding region but not the GATA-1 binding
+                     site; Derived by automated computational analysis using
+                     gene prediction method: RefSeqFE."
+                     /function="enhances beta-globin promoter activity in
+                     transfected MEL cells"
+                     /db_xref="GeneID:109951029"
+     protein_bind    25415..25474
+                     /experiment="EXISTENCE:protein binding evidence
+                     [ECO:0000024][PMID:9892636]"
+                     /note="delta60 YY1-binding probe; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /bound_moiety="YY1 transcription factor"
+                     /db_xref="GeneID:109951029"
+     protein_bind    25667..25675
+                     /experiment="EXISTENCE:nuclease protection assay evidence
+                     [ECO:0001106][PMID:1717993]"
+                     /note="GATA-1 footprint in pyr region; Derived by
+                     automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /bound_moiety="GATA binding protein 1"
+                     /db_xref="GeneID:109951029"
+     regulatory      26882..29383
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:transgenic organism evidence
+                     [ECO:0001131][PMID:10022837, PMID:10882078]"
+                     /note="2.5 kb BglII fragment deleted in the delta-2.5 kb
+                     YAC transgene; includes the pyr and R regions; Derived by
+                     automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /function="necessary for efficient beta-globin (HBB) gene
+                     expression in transgenic mice; may also protect the
+                     transgene against position effects in fetal liver"
+                     /db_xref="GeneID:109951029"
+     regulatory      26884..28501
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:7524502, PMID:11783950]"
+                     /note="1.7 kb R fragment in the betaCAT, gammaCAT and
+                     gamma-175CAT constructs; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="negatively regulates the gamma- and beta-globin
+                     promoters in transfected MEL cells, and the gamma promoter
+                     in HEL cells"
+                     /db_xref="GeneID:109951029"
+     regulatory      26884..27962
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:7524502, PMID:11783950]"
+                     /note="1 kb F3 fragment in the betaCAT, gammaCAT and
+                     gamma-175CAT constructs; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="moderately down-regulates the gamma- and
+                     beta-globin promoters in transfected MEL cells, and the
+                     wild-type gamma promoter in HEL cells"
+                     /db_xref="GeneID:109951029"
+     regulatory      26884..27538
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:7524502, PMID:11783950]"
+                     /note="0.65 kb F5 fragment in the betaCAT, gammaCAT and
+                     gamma-175CAT constructs; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="strongly down-regulates the beta-globin
+                     promoter in transfected MEL cells, and the wild-type
+                     gamma-globin promoter in HEL cells"
+                     /db_xref="GeneID:109951029"
+     protein_bind    27105..27142
+                     /experiment="EXISTENCE:protein binding evidence
+                     [ECO:0000024][PMID:11783950]"
+                     /note="oligo 38 ALUdelta-2 GATA-1-binding probe; Derived
+                     by automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /bound_moiety="GATA binding protein 1"
+                     /db_xref="GeneID:109951029"
+     protein_bind    27387..27438
+                     /experiment="EXISTENCE:protein binding evidence
+                     [ECO:0000024][PMID:11783950]"
+                     /note="51-bp GATA-1-binding oligo; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /bound_moiety="GATA binding protein 1"
+                     /db_xref="GeneID:109951029"
+     protein_bind    28130..28167
+                     /experiment="EXISTENCE:protein binding evidence
+                     [ECO:0000024][PMID:11783950]"
+                     /note="oligo 38 ALUdelta-1 GATA-1-binding probe; Derived
+                     by automated computational analysis using gene prediction
+                     method: RefSeqFE."
+                     /bound_moiety="GATA binding protein 1"
+                     /db_xref="GeneID:109951029"
+ORIGIN      
+        1 aatatcatag atgttttctc ttatagcagc ctgcatgtgc ccagattttg aatttatcct
+       61 ttgtatattt acatttagtt ctgtattatt acaattagtt cgtagacctg ttattattat
+      121 tctcatttgt agttgaagaa attgcactcc agcaagttta aattgctcct ggctacatcc
+      181 cagaaaaaca ataataaatg aaaatacttt ttgcccctac ttgactagga attgtataaa
+      241 gagaacagtt attcttctag tgggaagcaa gctggcctca actggaacag aatgagagaa
+      301 atgcaagaca tctaataatc caacagtccc acaccccact aaatgtactt tttccttttc
+      361 cccatggagt caaggctatc taaacttcct ttaagtgcac aagctaatat ggtagggaaa
+      421 tataaagcct aatcctgcca tccagaatga gcaagtggat ggggaaaagg gaagggaaaa
+      481 aggagcagaa tctgccaagt ctgacctaat gccctctgtt tctcccactt gctctgcagg
+      541 atggcttagc agctcccagc tcagggccta tcagaggctg agaaggtcgg ccctctgatg
+      601 cattttattc cttcactaac aaagcaaacc cagctttact tctaccctct cctctatgca
+      661 ctctctcggg gcacttccta atctcgttag taccttttga attagttttc aagataggac
+      721 ttgagttcct cgaaggatta gaaaataaca gtaacagttc atgttgtctg ggccaagcac
+      781 agtggctcac acctgtaatc acagccgagg ccggagggag aacgatttga gctcaggagt
+      841 tggagaccag cttgggcaac atggagaaac ccctctctac aaaaaatttt aaaaagtagc
+      901 cgaatatggt gttacgtgcc tgtagtccca gctacttggg aggctgaggt ggaaggatat
+      961 cttgagccaa ggagggggag attgcagtga gcaaagattg taccactgca ctccaacctg
+     1021 ggcaacacag cgagaccctg tcaaaaaaaa aaaaaagaga gctagaaaga aagaaattaa
+     1081 caattcaggt tgtcagaagt aactgaatgt ctttaacaaa taggagccat aggactaaat
+     1141 tgctcacatt attttgaggg caaaaattac attgtcatta ttttttacct ccaacatata
+     1201 tacagttttt atatttacta tataggaaca caataaatgc ttgttgcata aaatcaaatt
+     1261 acaaagaagg acagagaatc attaaattac tttcataatg cgcataaaac aacattttgt
+     1321 tagacttaaa aacaagctga ttataactat aaaaagatat gtgactaata ggtggaaaga
+     1381 ggagcaagga agaataaaat gggaggaaag aactgctaaa gactcacgat ggtttgttac
+     1441 atagctaaac acatgtcatg ggtttgtcgt acagattatt tcatctccca gtactcaata
+     1501 gttacttttt ctgctcttct ccccgttccc accctccaaa ctcaattagg ctgcagtgtc
+     1561 ttttgttccc gttatgtgtg catgttttct catcatttag ttcctacttg taagtgataa
+     1621 tatgtagtat ttggttttct gttcttacat tagtttgtta aggataatgg tgtccggctc
+     1681 catccatgtt cctgcaaagg acatgatctc attctttttt atggccacat agtattccat
+     1741 ggtgtatatg tacatgttct ttatcggtat accactaatg ggccttcagg ttgattctat
+     1801 gtctttgcta ttgtgattat gctgcaatgg acacaggtgt gcatgtgtct ttgtgataga
+     1861 atggtttatt ttcctttagg tatatactca ataataggat tgttgggtta aatggtattt
+     1921 ctgtttttag gtctttaggg aattgccaca ctgctgtcta caatggtcga actaatttat
+     1981 attgccacca atggtgtata aacattccct tttctccaca accttaccca catctgttat
+     2041 tttttgacta tttaattata gatattttaa gtgatgtgag atagtatctc attttgggtt
+     2101 tgattggcat ttctctaatg atcagtgaca ctgagctttt ttcatatgct tggtggccac
+     2161 atgtatgtct tcttttgaat actgtctgtt catgtccttt acccattttt tgtggcattg
+     2221 tttgttttgt tcttgtagat tcatttaagt tccttataga ttctgaatat taggcctttg
+     2281 ttggatgcat agtttgcaaa aattttctcc cattctatag gttgtttact cagttgatag
+     2341 tttcttttgc tgtgcagaaa ctttatttta attagatcct atttgtcaat ttttgctttt
+     2401 gctgcaatga ctgttggcat ctttgtcatg aaatctttgc ccctgcttat gtccggaatg
+     2461 gtattgccta ggttgctttc aagcattttt atagtttggg ttttgcattt aagtctctaa
+     2521 tccatcttga gtttatttgt gtatatgata tagaacgggg tctggtttca atcttctaca
+     2581 tacggttagt cagttatccc aacaccactt gttgaatagg gtgtcttttc ctcattgctt
+     2641 gtttttatca gctttgtcaa agatcagatg gttgtaggca tgtggtctta tttctgggct
+     2701 ctctattctg ttccatttgt ctgtgtgtct tttctgtaac agtaccacac tgttttggtt
+     2761 actgtagccc tgtggtatgg tttgaagtta ggcaatgtat tatctccagc ttttttcttt
+     2821 ttctcttttt ttttttttgt actctaagtt ctacggtacc tgtgcagttt gttacatatg
+     2881 tatacgtgtg ccatattggt gtgctgcacc cgttaactcg tcatttacat tagatatatc
+     2941 tcctaatgtt atccctcctc tctcctacca ccccacgaca ggccccggtg tgtgatgttc
+     3001 cccaccctgt gtccaagtgt tctcattttt caattcccac ctgtgagtat taggatttcc
+     3061 taggctattt ggactttttt tgttgttgtt ccatatgaac tttaaagtgt atttttctag
+     3121 ttctgtgaag aatgtcattg gtagtttgat aggaatagct ttgaaactgt aaattgctct
+     3181 aggcagtatg gacattttaa caatattgat tctttttatc catgagcatg gaaagttttt
+     3241 ccatttgttt ctatcagctc tgatttcttt gagcagtgtt ttgtaaatct cattgtagag
+     3301 atctttcaac tgcttggtta gatatatcct taggtatttt attctttttg tggcaacggt
+     3361 aaatgggatt gacttcctga tttggctcta ggcttggcta ttgttgatgt atgggaatgc
+     3421 tagtgatttt tgtacattga ttttatatcc tgaaactttg ctgaagttat cagctgaagg
+     3481 agcttttggg ccttgactat ggtgttttct agatacagaa aacagggata ctttgacttt
+     3541 ctctcttcct atttggatgc cctttattcc cttctcttgc ctgattgctc tggccaggac
+     3601 tgccagtact atactgaata gcagtggtga gagagggcat ccttgtcttg tgccagtttt
+     3661 caagaagaat gcttccaggt tttgcccatt ctgtatgatg ttggctgtgg gtttgtcata
+     3721 gatggctcat attattttga ggtcatgtcc ttaaatagct agtttgttga gaggttttaa
+     3781 catgaagtga agttgaattt tatcaaaatc tttttttgca catattgaaa tgatcatgtg
+     3841 gtttctgttt ttagtgctgt atatatgatg aatcacattt atcaatttgt atatgctgaa
+     3901 ccaatcttgc ttctcaggga taaagcctac ttgattgagg tggattagct ttgtgatgtg
+     3961 ttgctggatt tggcttgcta gtatttttgc atcaatgttc aaggatattg gcctgaagtt
+     4021 ttcttttttt gttgttgtgt gtctatcagg ttttggtatc aggatgatgc tggcctcata
+     4081 aaatgagctg aggttgaatc cctccccctc aattttttgg agtagcttca gtaggaattt
+     4141 ttccaactct tctttgtgca tctgatagaa tttggttgtg aatcatattg tccagggctt
+     4201 tttttgtttg ataggctatt tattactgaa tcattttcag agctcatcat ggatctcttc
+     4261 aggaaattga tttcttcctg gttcagcctt gggaggacct aaaacaatcc tcagcaaatg
+     4321 caaaaaaaaa atcatatcaa tcactctcag accacagagg aataaaaata gatttcaaga
+     4381 ctaatgaata gctgaaaact atgcaattac atggaaatta aacaacctgc tcctgaatga
+     4441 attttgggta aataatgaaa actaaggcaa aaataaaata gttctttgaa actaatgaga
+     4501 acaaagatac aatataccgg aatctctggg acacagctta gacagtgtta agagagaaat
+     4561 ttatacacta aatgcccaca tcaaaaagtc ttaaagccct caaattaaca acctaatgtc
+     4621 acaactaaaa gaaccagaga accaagagca aaccaaccct aaatctagca gaagacaaga
+     4681 aataaacaag atcaaagcta actgaaggat attaaaacac aaaataccat tcaaaagatt
+     4741 aatgagtcca agagctggtt ttgtgaaaaa attaataagg tagatcacta gctagactaa
+     4801 taaagaagac aagagagaag atccaaataa gcacagttag aaatgaaaaa gggaatatta
+     4861 tcactcaccc cacagaaata caaataatca tcaaaaacta ctatgaacat ctctatgtac
+     4921 ataaactaga aaatctaaaa gaaatggata acttcctgga ctgctcattg tcttaggcaa
+     4981 agaagactag ccgtacttta tttgagggct ctttgagtag agtcctataa attcctgtat
+     5041 ttctctcaac tctatgtccc cctccccaga atacaaagcc ccttctgtga tgcctccttt
+     5101 gcttcttttg gttatatctg tgttatatct gaatatatgg ctctagagaa tcccaagaaa
+     5161 tagaaaaagc tagtccaaaa tccaagctct gaataagaca ggtgagacct ttggatgaat
+     5221 atcttttcac aaagttgaga agatgtgaag aacccaagaa tccactggag aaacagcccc
+     5281 gaggcactgc aaggggttca gacctgtgtt ggagaatatc atcaccgtaa caaaacttct
+     5341 atgttcttaa tatctgtgtg tttgtttgtt tgttttttgc ttgtttgttt gtttttcctc
+     5401 agagacagga tctcagtcac caaggctaga gagcagtggt gtcattattg ctcactgcaa
+     5461 ccctgaaatc ctgggctcaa gtgatcctat cacttcagcc tcctgggtta ctgggactac
+     5521 agatgcaagc cactgtgccc agcttggctc tttcttttta ttttaattgg tcactttgtt
+     5581 ttcagacctc ttgttatctt taatcatttt tcacctctga cttgacctcc cagttgtcaa
+     5641 atatttgact taatgggaga ctttccccta gcttgttgat tccagaaatt caactttatt
+     5701 ctaggcttgg ctcctgttta gtattgctgc tttgagattg ttctggttca tgaaaaacaa
+     5761 gtctccaaaa ttttctactt ctcaatattg ccatttacta aattcttata aacaaataag
+     5821 aaggaagact ctcagaaata tatggagaga ctgaggttag agttgagcaa ggcctgaaat
+     5881 tttgtcacaa ctaatctagt tgaaggaatg ttaactgact gagaaaacac taaatttctg
+     5941 tctatttcaa agagaaagac ttgataatgg ctctacggat gtgtgagatc agttttaata
+     6001 ggataacttt tttttattat tatacttcaa gttttagggt acatgtgcac aacatgcagg
+     6061 tttgttatat atgtatacat gtgccatgtt ggtgtgctgc acccattaac tcgtcattta
+     6121 gcattaggta tatctcctag tgctatccct gcccctgccc cccaccccat aacagtcccc
+     6181 agagtgtgat gttcctcttc atgtgtccat gtgttctcat tgttcaattc ccacctatga
+     6241 gtgagaacat gcggtgtttg gtttattctc cttgtgatag tttgctgaga atgatagttt
+     6301 ccagcttcat ccatgtccct acaaaggaca tgaactcatc attttttatg gctgcatagt
+     6361 attccatggt gtatatgtgc cacattttct taatccagtc tatcgttgtt ggacatttgg
+     6421 gttggttcca agtctttgct attgtgaata gtgctgcaat aaacatacgt gtgcatgtgt
+     6481 ctttatagca gcatgattta taatcctttg ggtatgtacc cagtaatggg atggctgggt
+     6541 caaatggtat ttctagttct agattcctga ggaattgcca cactgacttc cgcaatggtt
+     6601 gaactagttt acagtcccac caacagtgta aaagttgttc ctgtttctcc acatcctctc
+     6661 cagcacctgt tgtttcctga ctttttaatg atcgccattc taactggtgt gagatggtat
+     6721 ctcattgtgg ttttgatttg catttctctg atggctagtg atgatgagca ttttttcatg
+     6781 tgttttttga ttacataaat gtcttctttt gcgaagtgtc tgttcatatc ctttgcccac
+     6841 tttttgatgg ggttgtttgt tttttcttgt aaatttgttt gagttcattg tagattctgg
+     6901 atattagccc tttgtcagat gagtagattg caaaaatttt ctcccatttt gtaggttgcc
+     6961 tgttcactct gatggtagtt tctttagctg tgcagaagct ctttagttta attagatccc
+     7021 gtttgtccat tttgtctttt gttgccattg cttttggtgt tttagacatg aagtccttgc
+     7081 ccatgcctat gtcctgaatg gtattgccta ggtttttttc tagggttttt atggttttag
+     7141 gtctaacatg taagtcttta atccatcttg aattaatttt tgtataaggt gtaaggaagg
+     7201 gatccagttt cagctttcta catatggcta gccagttttc ccagcaccat ttattaaata
+     7261 gggaatcctt tccccattgc ttgtttctct caggtttgtc aaagatcaga tagttgtaga
+     7321 tatgcggcat tatttctgag ggctctgttc tgttccattg gtctagatct ctgttttggt
+     7381 accagtacca tgctgttttg gttaccgtag cattgtagta tagtttgaag tcaggtagcg
+     7441 tgatgcctcc agctttgttc ttttggctta ggattgcctt ggtgatgtgg gctctttttt
+     7501 ggttccatat gaactttaaa gtagtttttt ccagttctgt gaagaaagtc attggtagct
+     7561 tgatggggat ggcattgaat ctataaatta ccttgggcag tatgaccatt ttcacgatat
+     7621 tgattcttcc tacccatgag catggaatgt tcttccattt gtttgtatcc tcttttattt
+     7681 cattgagcag tggtttgtag ttctccttga agaggtcctt cacatccctt gtaagttgga
+     7741 ttcctaggta ttttattctc tttgaagcaa ttgtgaatgg gagttcactc atgatttggc
+     7801 tctctgtttg tctgttattg gtgcatagga atacttgtga tttttgcaca ctgattttat
+     7861 atcctgagac tttgctgaag ttgcttatca gcttaaggag attttgggct gagacaatgg
+     7921 ggttttctag atatacaatc atgtcatctg caaacaggga caatttcact tcctcttttc
+     7981 ctaattgaat gccctttatt tccttctcct gcctgattgc cctggccaga acttacaaca
+     8041 ctatgttgaa taggagtggt gagagagggc atccctgcct tgtgccagtt ttcaaaggga
+     8101 atgcttccag tttttgtcca ctcagtatga tattggctgt gggtttgtca tagatagctc
+     8161 ttattatttt gagatatgtc ccatcaatac ctaatttatt gagagttttt agcatgaagc
+     8221 gttgttgaat tttgtcaaag gccttttctg catctattga gataatcata tggtttgtgt
+     8281 ctttggttct gtttatatgc tggattatgt ttattgattt tcgtatgttg aaccagcctt
+     8341 gcatggcagg gatgaagccc acttgatcat ggtggatcag tttgccagta ttttattgag
+     8401 gatttttgca tcaatgttca tcaaggatat tggtgtaaca ttctcttttt ttgttgtgtc
+     8461 tctgtcaggc tttggtatca ggatgatgct ggcctcataa aatgagttag ggaggattcc
+     8521 ctctttttct attgattgga atagtttcag aaggaatggt accagctcct ccttgtacct
+     8581 ctggtagaat tcggctatga atcctactgg tcccggactt tttttggttg ataagctatt
+     8641 aattattgcc tcaatttcag agcctgttat tggtctattc agagatacaa cttcttcctg
+     8701 gtttagtctt ggcagagtgt atgtgtcgag gaatttatcc atttcttcta gattttctag
+     8761 tttatttgcg tagaggtgtt tatagtattc tctgacggta gtttgtattt ctgtgggatc
+     8821 agtggtgata ccccgtgtca ttttttattg cgtctatttg attcttctct cttttcttct
+     8881 ttattagtct tgctagcagt ctatcaattt tgttgatctt ttcaaaaaaa cagcttctgg
+     8941 attcattgat ttttttgaag ggtttttttg tgtctctatg tccttcactt ctgctctgat
+     9001 cttagttatt tcttgtcttc tgttagcttt tgaatgtgtt tgctcctgct tctctagttt
+     9061 tttaattgtg atgttagggt gtcaatttta gatctttcct gctttccctt gtgggcattt
+     9121 agtgctataa atttccctct acacactgct ttgaatgtgt ctcagagatt ctggtgtgtt
+     9181 gtgtctttgt tctcgttggt ttcaaagaac atctttattt ctgccttcat tttgttatgt
+     9241 acccagtagt cattcaggag caggctgttc agtttccatg tagctgagtg gttttgagtg
+     9301 agtttcttaa tcctgagttc tagtttgatt gcactgtggt ctgagagaca gtttgttata
+     9361 gtttctgttc ttttacattt gctgaggaga gctttacttc caactatgtg gtcagttttg
+     9421 gaataggtgt ggtgtggtgc tgaaaagaat gtatattctg ttgatttggg gtggagagtt
+     9481 ctgtagatgt ctattaggtc tgcttggtgc agagctgagt ccaattcctg gatatccttg
+     9541 ttaactttct gtctcgttga tctgtctaat gttgacagtg gggtgttaaa gtctcccatt
+     9601 attattgtgt gggcatctaa gtctctttgt aggtcactca ggacttgttt tatgaatctg
+     9661 ggtgctcctg tattgggtgc atatatattt agtatagtta gttcttcttc ttgaatagat
+     9721 ccctttgcca ttatgtaatg gccttctttg tctcttttga tctttgttgg tttaaaatct
+     9781 gttttatcag agactaggat tgcaacccct gccttttttt gttttccatt tgcttggtag
+     9841 atattcctcc atccttttat ttcgagccta tgtgtgtctc tgcacgtgag atgggtttcc
+     9901 tgaatacaga acacagatgg gtcttgactc cttatccaat ttgccagtct gtgtctttta
+     9961 attggagcat ttagcctatt tacatttaag gtgagtattg ttatgtatga atttgatcct
+    10021 gtcattatga tgttagctgg ttattttgct cgttgatgca gtttcttcct agccttgatg
+    10081 gtctttacaa tttggcatgt ttttgcagtg gctgatacta gttgttcctt tccatgttta
+    10141 gtgcttcctt caggagctct tgtagggcag gcctggtggt gacaaaatct ctcagcattt
+    10201 gcttgtctgt aaaggatttt atttctcctt cacttatgaa gcttagtttg gctggatatg
+    10261 aaattctggg ttgaaaattc ttttctttaa caatgttgaa tattggcccc cactttcttc
+    10321 tggcttgtag agtttctgcc gatagatcag ctgttagtct gatgggcttc cctttgtggg
+    10381 taacccgacc tttctctctg gctgccctta acattttttc cttcatttca actttggtga
+    10441 atctgacagt tatgtgtctt ggagttgctt ttctctagga gtatctttgt ggcgttctct
+    10501 gtatttcctg aatgtgaatt tgggcttgcc ttgctagatt ggggaagttc tcctggataa
+    10561 tatcctgcag agtgttttcc aacttggttc cattctcccc atcactttca gctacaccaa
+    10621 ttagatgtag atttggtctt ttcacatagt cccatatttc ttggaggctt tgttcgtttc
+    10681 tttttattct tttttctcta aacttctctt catgcttcat ttcattcatt tcatctttcg
+    10741 tcattgatac cctttcttcc agttgatctc atcggttact gaggcttgtg tatttgtcac
+    10801 gtagttctcc tgccttggtt ttcagctcca tcaggtcctt taaggacttc tgtgcattgg
+    10861 ttattctagt tatccattca tctaattttt tttcaaagtt ttttacttct ttgccgtttg
+    10921 ttcgaacttc ctcctttagc ttggagtagt ttgatcttct gaagccttcc tctctcaact
+    10981 cgtcaaagtc attctctgcc cagctttgtt ccattgctgg tgaggagctg cgttactttg
+    11041 gaggaggaga ggcactctca tttttagagt gtccagtttt tctgctctgc tttttcccca
+    11101 tctttatggt tttatctacc tttggtcttt gatgatggcg atgtacagat gggtttttgg
+    11161 tgtggatgtc ctttctgttt gttagttttc cttctaacag tcaggaccct cagctgcagg
+    11221 tctgttggag tttactggag gtccactcca gaagctgttt tcctgggtat caacagcggt
+    11281 ggctgcagaa cagtggatat tggtgaaccg caaatgctgc tgcctgatca ttcctctgga
+    11341 agttttgtct tagaggagta ccagccatgt gaggtgtcag tctgccccta ctgggggatg
+    11401 cctcccagtt aggctactcg ggggtcaggg acccacttga ggaggcagtc tgcctgttct
+    11461 cagatctgaa gctatgtgct gggagaacca ctactctctt caaagctgtc agacagggac
+    11521 atttaagtct gcagaggttc ttgttgtctt ttgtttgtct gtgccctgcc cctagaggtg
+    11581 gagcctacag aggcaggcag gcctccttga gctgtggtgg gctccaccca gttcgagctt
+    11641 ccaggcggct ttgtttacct gctcaagcct ggacaatggt gggcacccct cccccagcct
+    11701 cactgccacc ttgcagtttg acctcagact gctgtgctag caatgagcga ggctccatgg
+    11761 gcgtaggacc ctctgagcca ggcatgggat ataatctcct ggtgtgccat ttgttaagct
+    11821 tgttggaaga gcgcagtatt agggcgggag tgacccgatt ttccaggtgc catctgtcac
+    11881 ccttttcttt gactaggaaa gggaattccc tgaccccttg tgcttcccgg gtgaggtgat
+    11941 gcctcgccct gctttggctc atgcacagtg cactgcacct actgtcctgc acccactgcc
+    12001 tggcacttcc ctgtgagatg aacctggtac ctcagttgga aatgcagaaa tcacccgtct
+    12061 tctgcgtcac tcacgatggg agctatagac tggagctgtt cctattcggt catcttggct
+    12121 ccaccgctcc cccccccctt ttttttttct tttttttttg tgacggagtc tcatgctgtc
+    12181 acctgggctg gaatgcagtg gcacaatctt ggctcactgc aacctctgcc tcccaggatc
+    12241 aagcgattct cctgcctcag cctcccaaat tgctgggatt acacatgcct gccaccacgc
+    12301 caggctaagt ttttatattt ttagtagcga tgaggtttca ctatgttggc caggctgatc
+    12361 ttgaactcct gacgtcgtga tccgcctgtc taggcctccc aaagtgctgc aattgcaggt
+    12421 gtgagccacc gctcccagcc tagaataact tcttaaatgc ttttattgtt gactgaattt
+    12481 atttctccct tgatagtttc tactttgggt tgataattaa ataacagtgt tatctctaag
+    12541 attatataca tgtcttccca tatttttatt ctagtttttt cgtgactgaa ttttaccttc
+    12601 acacctaatt gtgtaatcga ttgtggtata tgcagttaag catttcactt tactcttttc
+    12661 aaaaagtata gttgttcaat tactgtttgt tttttatttc caagctaaat ttaaaagcta
+    12721 tatttttata tatcacatta ttatatttta gtgagattta gtttttggat ttctatttat
+    12781 tccactatct tacttacaca tgagtggtat taatttaaca tgattttaga atgaagaaaa
+    12841 tgaagccatt tttagataaa ccaaaagtaa caatgtattt ccagcagaaa gagataatat
+    12901 taaggataat cagaaaaaaa tagaataaac ttagagagaa tgttagaaat gaagaaaagc
+    12961 atgcaaaaca ttttgtacat aagtgtaaac atttcttcac tatttaataa taacactaga
+    13021 aaatctaggg agtaaaacta tacaaaatat ctaaaatata tatatatata attatagatt
+    13081 gggaagggga aaatgaagat aaagtgctaa aatttattgt attgttttgg aaaagagtaa
+    13141 acagtcaaat ggatatttgt atctgaaaaa tcaagaatgc aattctaatc atcaagatgc
+    13201 atttttttat tttttagttt tttaattcat gtgatgtcta ttctttttta ttattcttca
+    13261 actttattga ggtatcattc acaaataaaa attgtatata tttaaggtgt acaacatgat
+    13321 gttttaatat atgtatacct tgtgaaatga ttaccacaat caagctaatt aacataccca
+    13381 ttatctcaca tagttacctt tttcttgtgg taaatgcttt taagatctac tctcggccag
+    13441 gcccggtggc tcacgcctgt aatcccagcc ctttgggtgg ccgaggcagg cggatcagcc
+    13501 tgaccaacat ggagaaaccc cgtctctact aaaaatacaa aattagctgg gcatggtgtc
+    13561 gcatgcctgt aatcccagct actcgggagg ctgaggcagg agatttgctt gaacccagga
+    13621 ggcggaggtt gcagtgagcc aagatcttgc cattgcactc cagcctggac aacaagagca
+    13681 aaactccatc taaaaaaaaa aaaaaatcta ctctctttgc aaattttaaa tatacttaca
+    13741 gtacaattaa ctacagtcac gatgctgtac attagatatc tagaatttat tcatcccaca
+    13801 taactgaaat tttataccct ttgagtaata gtttcctgat tctcccaccc ccaacccctg
+    13861 gaaaccatac ctctactgtc tgtttccatg agagtgactt ttttatgttt cacatatgag
+    13921 caaggttgtg tagtatttgt ctttttgtgt caggcttatt tttcttagtt ttacatcctc
+    13981 caggttcatc aattctgcca taaatggcag gattttcttc tttttaattt ttttattttc
+    14041 ctatttttaa ttttttgttt gttattgaat catctgtgtt tcttatatat tttggatatt
+    14101 aaccaaaata tttaagaaat atttggtttg caaatatgcc atttcatggt tcacctttca
+    14161 tttgttcatt gttttgtttt ttgtgtggaa attttttagt ttgatgtagc ctcacttctt
+    14221 tatttttcct tttgttgcct ttgcttctca tatcaaattc aaaaaacggc tgcaacgtga
+    14281 atattagaat tttcttcttt tgatttcttt aaaaattttt atggttttag gtcttagttt
+    14341 aattctttaa cccattcaaa tttatttttg tttatggtgt aagacaaggg tctgatttca
+    14401 tttcattttg agggtttcac cctctcatat aataaaattc ttctatatac ccttctatca
+    14461 tcacttatta ctgattatat gccttgattt cagaatcttg ccaactagat tcagaatttg
+    14521 actgggagag aggacaagga ccacttgaga ctcatatttt atttccagaa tctagcatct
+    14581 acctacctag gtattgaata agaaaaatga agttaaggtg gttgatggta acactatgct
+    14641 aataactgca gagccagaag caccataagg gacatgataa gggagccagc agacctctga
+    14701 tctcttcctg aatgctaatc ttaaacatcc tgaggaagaa tgggacttcc atttggggtg
+    14761 ggcctatgac agggtaataa gacagtagtg aatatcaagc tacaaaaagc cgcctttcaa
+    14821 attcttctca gtcctaactt ttcatactaa gcccagtcct tccaaagcag actgtgaaag
+    14881 agtgatagtt ccgggagact agcactgcag attccgggtc actgtgagtg ggggaggcag
+    14941 ggaagaaggg ctcacaggac agtcaaacca tgacccctgt ttttccttct tcaagtagac
+    15001 ctctataaga caacagagac aactaaggct gagtggccag gcgaggagaa accatctcgc
+    15061 cgtaaaacat ggaaggaaca cttcagggga aaggtggtat ctctaagcaa gagaactgag
+    15121 tggagtcaag gctgagagat gcaggataag caaatgggta gtgaaaagac attcatgagg
+    15181 acagctaaaa caataagtaa tgtaaaatac agcatagcaa aactttaacc tccaaatcaa
+    15241 gcctctactt gaatcctttt ctgagggatg aataaggcat atgcatcagg ggctgttgcc
+    15301 aatgtgcatt agctgtttgc agcctcacct tctttcatgg agtttaagat atagtgtatt
+    15361 ttcccaaggt ttgaactagc tcttcatttc tttatgtttt aaatgcactg acctcccaca
+    15421 ttcccttttt agtaaaatat tcagaaataa tttaaataca tcattgcaat gaaaataaat
+    15481 gttttttatt aggcagaatc cagatgctca aggcccttca taatatcccc cagtttagta
+    15541 gttggactta gggaacaaag gaacctttaa tagaaattgg acagcaagaa agcgagctta
+    15601 gtgatacttg tgggccaggg cattagccac accagccacc actttctgat aggcagcctg
+    15661 cactggtggg gtgaattctt tgccaaagtg atgggccagc acacagacca gcacgttgcc
+    15721 caggagctgt gggaggaaga taagaggtat gaacatgatt agcaaaaggg cctagcttgg
+    15781 actcagaata atccagcctt atcccaacca taaaataaaa gcagaatggt agctggattg
+    15841 tagctgctat tagcaatatg aaacctctta catcagttac aatttatatg cagaaatatt
+    15901 tatatgcaga gatattgcta ttgccttaac ccagaaatta tcactgttat tctttagaat
+    15961 ggtgcaaaga ggcatgatac attgtatcat tattgccctg aaagaaagag attagggaaa
+    16021 gtattagaaa taagataaac aaaaaagtat attaaaagaa gaaagcattt tttaaaatta
+    16081 caaatgcaaa attaccctga tttggtcaat atgtgtacac atattaaaac attacacttt
+    16141 aacccataaa tatgtataat gattatgtat caattaaaaa taaaagaaaa taaagtaggg
+    16201 agattatgaa tatgcaaata agcacacata tattccaaat agtaatgtac taggcagact
+    16261 gtgtaaagtt tttttttaag ttacttaatg tatctcagag atatttcctt ttgttataca
+    16321 caatgttaag gcattaagta taatagtaaa aattgcggag aagaaaaaaa aagaaagcaa
+    16381 gaattaaaca aaagaaaaca attgttatga acagcaaata aaagaaacta aaacgatcct
+    16441 gagacttcca cactgatgca atcattcgtc tgtttcccat tctaaactgt accctgttac
+    16501 ttatcccctt cctatgacat gaacttaacc atagaaaaga aggggaaaga aaacatcaag
+    16561 cgtcccatag actcaccctg aagttctcag gatccacgtg cagcttgtca cagtgcagct
+    16621 cactcagtgt ggcaaaggtg cccttgaggt tgtccaggtg agccaggcca tcactaaagg
+    16681 caccgagcac tttcttgcca tgagccttca ccttagggtt gcccataaca gcatcaggag
+    16741 tggacagatc cccaaaggac tcaaagaacc tctgggtcca agggtagacc accagcagcc
+    16801 taagggtggg aaaatagacc aataggcaga gagagtcagt gcctatcaga aacccaagag
+    16861 tcttctctgt ctccacatgc ccagtttcta ttggtctcct taaacctgtc ttgtaacctt
+    16921 gataccaacc tgcccagggc ctcaccacca acttcatcca cgttcacctt gccccacagg
+    16981 gcagtaacgg cagacttctc ctcaggagtc agatgcacca tggtgtctgt ttgaggttgc
+    17041 tagtgaacac agttgtgtca gaagcaaatg taagcaatag atggctctgc cctgactttt
+    17101 atgcccagcc ctggctcctg ccctccctgc tcctgggagt agattggcca accctagggt
+    17161 gtggctccac agggtgaggt ctaagtgatg acagccgtac ctgtccttgg ctcttctggc
+    17221 actggcttag gagttggact tcaaaccctc agccctccct ctaagatata tctcttggcc
+    17281 ccataccatc agtacaaatt gctactaaaa acatcctcct ttgcaagtgt atttacgtaa
+    17341 tatttggaat cacagcttgg taagcatatt gaagatcgtt ttcccaattt tcttattaca
+    17401 caaataagaa gttgatgcac taaaagtgga agagttttgt ctaccataat tcagctttgg
+    17461 gatatgtaga tggatctctt cctgcgtctc cagaatatgc aaaatactta caggacagaa
+    17521 tggatgaaaa ctctacctcg gttctaagca tatcttctcc ttatttggat taaaaccttc
+    17581 tggtaagaaa agaaaaaata tatatatata tgtgtgtata tatacacaca tacatataca
+    17641 tatatatgca ttcatttgtt gttgtttttc ttaatttgct catgcatgct aataaattat
+    17701 gtctaaaaat agaataaata caaatcaatg tgctctgtgc attagttact tattaggttt
+    17761 tgggaaacaa gagataaaaa actagagacc tcttaatgca gtcaaaaata caaataaata
+    17821 aaaagtcact tacaacccaa agtgtgacta tcaatggggt aatcagtggt gtcaaatagg
+    17881 aggttaactg gggacatcta actgtttctg cctggactaa tctgcaagag tgtctggggg
+    17941 aacaaaaagc ctctgtgact tagaaagtag gggtaggagg ggaaaaggtc ttctacttgg
+    18001 ctcagattat ttttttcctc tagtccacta agaatactgc gttttaaaat catttccttg
+    18061 attcaagttc ctatttctct ttatattttg tttgtttaaa cctcctttac taaaatttac
+    18121 tcttctttct ctatagcttc ccaacgtgat cgcctttctc ccatccccct gtactttttc
+    18181 cccttgtact aaattaactc ctcaggtgag gaaaaacttt tgaagtgcag agttctgctt
+    18241 cctgctatta aaagatgtaa ttaaaacagc aaaggtagca agcatttatg aggtcagcgt
+    18301 agggtctcag tgttccctaa gggccctgtc agtcatcctg aatcctgccc ctacctggaa
+    18361 acccatgtcg gtttagtaag gaaagtgtta tacttttact ttgcatgttt ctcctacttc
+    18421 ttcctttcag ctctaacact ctgaaactac gattacacaa aataaaataa aataaaataa
+    18481 aataaaacaa taaaatgaaa taaaatttag gttaaccaaa agaaactgga tcctctattt
+    18541 ctagttatca gaaggaaatt tacaaatttc ttatttccat tgctttattc tcttaaatgc
+    18601 tttctctatt attgctaaat aaatagagat ctctcacttt ttctacctgt ctcaaccctc
+    18661 atcaggtact tgtgaaaaaa tctcactctg attattctca cacacgcaga aagtgtttgg
+    18721 ttcttctatg gctatctgga gcctaggtta aaaaattatg cctatgtatg attatagagg
+    18781 taagagggat aaaatttaag tattttcttt ttatattcat tcctctgtaa aaaactaaag
+    18841 caatgaggat ctaggcacac gtgtatccct gagaaaagat ttcacatgtt gaatcctggg
+    18901 aaaagacgtc tttaaaatat tttaaatgtt aaaacatgca gatttgactt ggctgttaga
+    18961 ttttggattt tattttatta aatttaaacc tgcattagca ttgttttaga tttagacagt
+    19021 tttcaagacc ctgtttcaca tccctgatat aagaggcatg tatatgtgaa ataaagtgtt
+    19081 ctgcggaagt ttgaatatgt cttttgcaaa tatcctgggt caaagaaaat gcacagactt
+    19141 tatgaaatta taatataggt tatatttata gtattctgaa agaccaaaat tgtcaaagca
+    19201 agagctttga aatcctgatt ggcagaaatt gtcaccttct taaagactta ccctacaact
+    19261 tcttatgctc agaaatagtt ttcctttttc tattttgttt tcttttttaa atgatgaact
+    19321 atggatcctt ctcttgtgtt ggcaactgct gcagatacca tcatcctggc ttcaaggcag
+    19381 gggttgcttt tccaatggta gttacttagt gtgactagag tgtaacgcag acttttcttt
+    19441 ctattaccca taataccctg cagggacaag gctgcaagct atactaagac catcaaaagc
+    19501 ccaggcatac caggcaaata agtttcaaga agcaataaat agtgcaaatt tggttatggt
+    19561 cagagcctca gtttcaaatc taaatcagca ttcaaagttc ctgaaaaact attcaagctt
+    19621 actgacatct tcactattgt gagcttgctt ctactctgtg aatggatgcc acagcaggtg
+    19681 caggtctatt ctacttttat tccagcccca ctgaccacaa cacacacaca cacacacaca
+    19741 cacacacaca cacaagtcct caaaaaagag acagcgagag agacagaggt ccatttcctt
+    19801 tactccagtc tattaatctt tcttaagtcc taatgtttta tatcagaatg gccctagtct
+    19861 gggtatactt agaggatgaa tattaacttc ctccatgaaa atcatgacac tcatctatgg
+    19921 gagtgtggtt ttatcatttg tttcaaaagc agcacttgac tagagtattt ttatacatgc
+    19981 tctactgttt agtctaaaat tccccaagtg agacatttta gcaatctact gtatatgttc
+    20041 ctaggtcaag cacagtctag ctacttgcta cagacttctc tcgcagatac acaatctctc
+    20101 agtaaacaca actcagcagc tctcagaatt aattaattaa aatgaaataa aaatgctcca
+    20161 agaaaaccag aacccataga aacaaaccgc acacacacaa aatagtttgg aaataggata
+    20221 gtttagttca ctttaaaaag ttgtatttct taccaaaaag caataaagtc aacatagaca
+    20281 gaactttgct aaagtatatg cataattatt acagaaaaat ttatatttca gtctgcacct
+    20341 tgttcattaa tatttcctcc actgggctca gattttcatt cagaattagc ttttttttaa
+    20401 cctcattaag tgggccatgg tgtcaattta tggagagcag aggtacagtc ttcagataaa
+    20461 tttgagattg catctcttta gaggtagaat cttggcttca gtctgaacac cctttacaaa
+    20521 catgtaggca ttaattcaga ggactgctct gaagctcaag agatggatga tttaggagac
+    20581 tattaggctt aattctcctg acattaaatt attttattga aaaattttca tgaactcaaa
+    20641 ttcacattat tacgtcctct cttcccttcc tctctccctc tctttcacac acacacacac
+    20701 cctttcattc agacatactg aacatagttt ataaagcaac gccatagtga gaaaagaaaa
+    20761 acaaccattt gataaattat caaataaaat taaagccaaa tcttgaggaa ttaattccat
+    20821 tcctatactt tgttttaact ttcattttaa atttgggggt acatgtacaa gttatatagg
+    20881 taaattgcat atcactgggt cttgatgtac agattatttc atcactcagt gatgaactta
+    20941 atacccaata ggttcttttt catcgtctcc ctcttcccac cctcaaccct caagtaggcc
+    21001 tgggtgtctg ttgatctatt ttttgtgtcc atgtgtatca tcatttagct cccacactcc
+    21061 tagactctta caaaagctct actctaacaa ataattttaa tataacaaca aggtgccaag
+    21121 tcttttttca tctcttgacc tcctcatctt caatatgaag atagcaatgc ctagcatata
+    21181 gtaattgtgt gtgctcggca catgtcccat ccaggtgatg ttctcatgaa ttctctggta
+    21241 tttggatttt tagggccaac atcttgccta gactcactga ctacttctaa tggtgtagga
+    21301 atagaaggta tagtaagcta tatttgctct ttttttttga cttttggaga aaggaatgta
+    21361 gtttgttttc cctatcaaga tcataaggtc tacaatctct cttactgtct ttcgaatacc
+    21421 acacaagtat ctccttttaa tatcttactc ttatgagaac ttccctatgc tcaggaatgt
+    21481 gaaagtgatc ttccccaaaa tgccctgagt agctctgctt ctgatatgta aaccagtggt
+    21541 tcctaaatat cttattcaga tataaagagt tctcagtgcc tactatgtat aatgacttaa
+    21601 ggaaaacaca tggatataaa agagcttctg ctgccagtca attcaaaatg ttgtgatcaa
+    21661 aacagttaac tataacacat tgtcagtata ttctggcagt acagacagag ttactgtgaa
+    21721 agcactttca aacacaagga aacaacagat tctgtttagg tattcaagta agtttaaaat
+    21781 taatcaacat gcatataata cagattttta aaaatgtata caactgagaa agttctaaaa
+    21841 atccttctaa ttttacctat ggcaaaaatg gtgctcaagg aaaaaaatat tactcctatg
+    21901 atcagaaagg aaataactgt tcggttgttt actgcatgct tcctctttgt atgttgtagc
+    21961 attaacaaca aagaaacact gtgcgatggt attattaata ttgtcctcta attccagaag
+    22021 ttctaaagca aggaataatc attccttcat ttactcattt actcattcgt tcattcattc
+    22081 actgttttct tgaataaata ttttctttct gcccattgat gaatttaata tgaggcacag
+    22141 taggcatgta agaaggtaga gaataggcag aattgcttat aaagcacgga gtgtgtgtgt
+    22201 gtgcatgaaa taaataagaa aaatataaaa atataaaaaa tggtgtgggg gagggtttgg
+    22261 aaagattttt tgggtagtat agagaagttt attgtggctg gggtcaagag aggtcacaag
+    22321 taatacgtga gcaatgaatc ttgactgaaa tatgggaaga taagaggaaa ttctttacag
+    22381 agatgttctg gggcaagtaa gaggaggaag ctatttcttg gagcaggaac acttgatggg
+    22441 gtatagtatt atgggctaca atgtgcaggc aaaggaagga ggaagaaaga caacataaca
+    22501 ttgtcttgag taatcattat gcctttaatt gagcacatta ttttctcagt aattgttgga
+    22561 gtttaatcgt agcattaccc ttgaggctat gtcttagggt tgaggtcttc cctagaacct
+    22621 ctgcagtgcc agtattatct ttgtatcaag agttcttgat aatttctgct ctttggaggt
+    22681 agaagtgtca cccattaatg ccttgtacgg ttcccttgct tttctctttt cccatgtact
+    22741 ctttgtaaaa taaacaagtg ctccctatct gtagagcctc aggaaccttc ttacacacct
+    22801 ggacaaaaaa atgaaataag tgaaattaat caggaagttg agctgaacat tctttattag
+    22861 gcagaagcca tacccttgaa gtaggcattg tgttcccaag ttcagaaaat agaatctagg
+    22921 gaaatagggt cttcttatgg ttatcaggaa acagtccagg atctcaatgg tacttgtgag
+    22981 ccagggcatt agccacacca gccaccacct tctgataggc agcctgcatt tgtggggtga
+    23041 attccttgcc aaagttgcgg gccagcacac acaccagcac attgcccaag agctgcggag
+    23101 aagaggtagg cagatacatg catatggtta acagagaaat aaagactggc ttctgagaaa
+    23161 ctgagccaac acccattttt ttctgcccaa atcttagaca aaactgatcc ccaggttatt
+    23221 cccatcagca taaataagta catatatgaa tgcatacata taacatatat ctatacacac
+    23281 acatcctcta tgtacttaac tagcatgtag tctatatatg tacatatatg ctatatatgc
+    23341 tgtataatac tatatacaaa ttaattccaa attagtttta attttgtatg tgtatatagc
+    23401 atatacaaat taattactat aaacagatta atagatacaa attaattgat taatcagtgt
+    23461 gatgatgggc tgtctcctag caacgacttc tgccccacct ccagtgtaac tgcctagtct
+    23521 ttcataatca aatattcact ttcctttcca ttccatttac tacagaattt ataaaattcc
+    23581 aattattcct tattgtaaaa tgatttatag cctctaaaac agtattctat gcctctcatc
+    23641 tttgagttgg agcctctccc atacccatgt ggagagacaa aaggattatt ctaagtgcag
+    23701 aattagcagg tgagagctgg tatgcataat ttgagttgtt gttagagaag gaaaaatgaa
+    23761 gggagggggt tgggagagaa agacaggata ttaaataatt taaaatagca agattgtgag
+    23821 gaaggaaaaa atgcagaata tttaaataaa aaattaacaa aattttagaa gcattaaatg
+    23881 ataaaatata gtaaaatgac aaaaatgtgg gagaagagca ggtaggtaaa agaaccaaaa
+    23941 tgtaagatta gaaagtaaaa agagaaaagt gaagcatctc ctggactcac cctgaagttc
+    24001 tcaggatcca cgtgcagctt gtcacagtgc agctcactca gctgagaaaa agtgcccttg
+    24061 aggttgtcca ggtgagccag gccatcacta aaggcaccta gcaccttctt gccatgagcc
+    24121 ttcaccttag ggttgcccat aacagcatca ggagaggaca gatccccaaa ggactcaaag
+    24181 aacctctggg tccaagggta gaccaccagt aatctgaggg taggaaaaca gcccaaggga
+    24241 cagagagtca gtgcctatca gaaacccaag agtcttctct gtctacacat gcccagtttc
+    24301 catttgcctc cttgagcctc tcttataacc ttgataccaa cctgcccagg gcctcaccac
+    24361 caactgcatc cacgttcact ttgccccaca gggcattgac agcagtcttc tcctcaggag
+    24421 tcagatgcac catggtgtct gtttgaggtt gctagtgaac actgttatgt cagaagaaag
+    24481 tgtaagcaac agtcgactct gccctgcctt ttatgctggt cctgtcctcc ctgctccagt
+    24541 gagcaggttg gtttaagata agcagggttt cattagtttg tgagaatgaa aaatgaacct
+    24601 tcattccact attcccttaa cttgccctga gattggctgt tctgtcatgt gtgtcttgac
+    24661 tcagaaaccc tgttctcctc tacatatctc cccaccgcat ctctttcagc agttgtttct
+    24721 aaaaatatcc tcctagtttc atttttgcag aagtgtttta ggctaatata gtggaatgta
+    24781 tcttagagtt taacttattt gtttctgtca ctttatacta agaaaactta tctaaaagca
+    24841 gatgttttaa caagttgact caatataaag ttcttctttg cctctagaga tttttgtctc
+    24901 caagggaatt ttgagaggtt ggaatggaca aatctattgc tgcagtttaa acttgcttgc
+    24961 ttcctccttc ttttggtaaa ttcttcctat aataaaactc taatttttta ttatattgaa
+    25021 ataaatatcc attaaaagaa tatttaaaaa atgaatagtg tttatttacc agttattgaa
+    25081 ataggttctg gaaacatgaa ttttaaggtt aacattttaa tgacagataa aatcaaatat
+    25141 tatatacaaa tattttgaat gtttaaaatt atggtatgac taaagaaaga atgcaaagtg
+    25201 aaaagtagat ttaccatatt cagccagatt aaatttaacg aagttcctgg gaatatgcta
+    25261 gtacagaaca tttttacaga tgtgttctta aaaaaaaatg tggaattaga cccaggaatg
+    25321 aagatcccag tagtttttca ctcttttctg aattcaaata atgccacaat ggcagacaaa
+    25381 tacacaccca tgagcatatc caaaaggaag gattgaagga aagaggagga agaaatggag
+    25441 aaaggaagga aggaagaggg gaagagagag gatggaaggg atggaggaga agaaggaaaa
+    25501 ataaataatg gagaggagag gagaaaaaag gaggggagag gagaggagaa gggataggga
+    25561 agagaaagag aaagggaagg gaagagagga aagaagagaa gaggagagaa aagaaacgaa
+    25621 gagaggggaa gggaaggaaa aaaaagagga aaaaagagac aagagaagag ataagactga
+    25681 cagttcaaat tttggtggtg atatggatca atagaaactc aaactctgtt ggtgacactg
+    25741 tacaatagta taaccccttt ggaaaacctt taatagtatc cacaaatgct ggatgcttga
+    25801 taagtctatt acctagcaat tacattttta gatattcaga aacacatgca tgtgtgtatc
+    25861 caaagacatg tatagaaatg cttatgacag caataatcat aaaaacctca aaccggtagc
+    25921 cacttaaatg cttaccaaca gtagaattga taaattacgg tatagtcaaa gaatagaata
+    25981 ttacacagaa atgaaaagaa tcaactactg cttaacacgt agcgatacaa atgcatttta
+    26041 cagcatttgg ttgattaaaa gtaaccagag gtgagttcaa actatatgac tttatttgta
+    26101 tatagaaaga tggatgatgt gcctgagatt ctgatcacaa ggggaaatgt tataaaatag
+    26161 ggtagagagg agccatgaat gacctttaaa ctttgttaca agttattttt ctgtaacctg
+    26221 gaagccaacg aaagatattg aataattcaa gaaaggtggt ggcatggttt gatttgtgtc
+    26281 tttaaaagat tattctcact tagtgaagaa atgtatttta gaagtagaga aaatgggaga
+    26341 caaatagctg ggcttctgtt gcagtaggga agaaagtgac aatgccattt ctattatcag
+    26401 acttggacca tgacggtgat gtcagtcgtg aacacaagaa tagggccaca tttgtgagtt
+    26461 tagtggtacg ataaaatcag aaatacagtc ttggatacat tgtattgtat gcactcttgt
+    26521 aaaatgcaaa aagatgtact tagatatgtg gatctggagc tcagaaagaa tacaaccagg
+    26581 tcaagaatac agaatggaac agaacataca agaacagatc ataatgtgct gtgtgaatca
+    26641 ctaccactac ctgttaaaaa tgacagatga tgtacttcat caatatctcc ttaaaatctt
+    26701 agaatgtgtt tgtgagggag gaattatgtt tccaattcat atataagaaa attgattcta
+    26761 aaaaaaatgt taggtaaatt cttaaggcca tgaggactgt tatttgatct ttgtctgtta
+    26821 attccaaaga cttggctttt cactttaatt ctgttctacc tgaaatgatt ttacacattg
+    26881 ggagatctgg ttacatgttt attctatatg gattgcattg agaggatttg tataacagaa
+    26941 taaggtcttt ttttcttttc tcttctgaga tggagtttca tccctattgc ccaagctaga
+    27001 gtgcaatggt gcaatctagg ctcaccgcaa cctctgcctc ctgggttcaa gcaattctcc
+    27061 tgcctcagcc acctgaatag ctgggactgc aggcatgcac cacacgcccg gctgattttg
+    27121 tatttttagt agagatgggg tttcaccatg ttggtcaggc tggtcttgaa ctcctgacct
+    27181 caagtgatct gcctgccttg gcctcccaaa gtgctgggtt tacaagcctg agccaccgca
+    27241 tccagccagg ataaggtcta aaagtggaaa gaatagcatc tactcttgtt caggaaacaa
+    27301 tgaggacctg actgggcagt aagagtggtg attaatagat agggacaaat tgaagcagaa
+    27361 tcgaactgtt gattagaggt agggaaatga ttttaatctg tgaccttggt gaatgggcaa
+    27421 gtagctatct aatgactaaa atggaaaaca ctggaagaga aacagtttta gtataacaag
+    27481 tgaaataccc atgctgagtc tgaggtgcct ataggacatc tatataaata agcccagtac
+    27541 attgtttgat atatgggttt ggcactgagg ttggaggtca gaggttagaa atcagagttg
+    27601 ggaattggga ttatacaggc tgtatttaag agtttagata taactgtgaa tccaagagtg
+    27661 tgatgaatac aaagttaaat gaaggacctt taatgaacac caacatttaa tgtgaaatct
+    27721 caaggaagta tgaagtaaga catagtcccc aaaatccccg atgattttag aactcagtat
+    27781 cgattttaat tagtgtaatg ccaatgtggg ttagaatgga agtcaacttg ctgttggttt
+    27841 cagagcaggt aggagataag gttctagatt ttgacacagt gaaaagctga aacaaaaagg
+    27901 aaaaggtagg gtgaaagatg ggaaatgtat gtaaggagga tgagccacat ggtatgggag
+    27961 gtatactaag gactctaggg tcagagaaat atgggttata tccttctaca aaattcacat
+    28021 tcttggctgg gtgtggtggc tcacgcctgt gatcccagca ctttcagagg ccgaggaggg
+    28081 tggatcacct gatgttagga gttcgagatc agcctgacca acatggtgaa accccctatc
+    28141 tactaaaaat agaaaattag ccaggcatgg tggtggcaca tgcctgtagt gccagctact
+    28201 tgggaggctg aggcaggaga atcgcttgaa cctgggaggc agatgttgca gtgagcctgg
+    28261 atcatgccat tgcactccag cctgggcaac catagcaatg ctctatctca gaaaaaaaaa
+    28321 aaaaaagttc ttgctaacct gaaaaaataa attatttgag ctttgtacct aattcataat
+    28381 tttcagataa tgaatattga gatgatatat gcacagaaca atgcctagag acacattcta
+    28441 agtgtgacat tcttaaatgc cagtgctctc cacaattcta atctcagttc actgctgttt
+    28501 gaattctgtg ttttcatatt atcttatcaa tacattaatc attgcaataa tcactgcaca
+    28561 ctgtaattat tcatttactg gacacatcct agtttccttc tgtcaattac cattcatgtc
+    28621 tgctttcaca tttatttctc atccttccct cagtgttctc tgtatttgag gaactgacat
+    28681 ttcccaggtt tcctcaccct ttcagtcgca tgtacattct gcaatggtaa acactggctg
+    28741 agggaaagca taagcaagat tatttctggt ctctctctct ctctgaacgg atctcctaca
+    28801 gcagacagtc ttttttatgg ttttttatgg ctgatacttt gatgccccca ttagacagtt
+    28861 ctggctctct ccaaggagca cccactagct cactgaatcc agtggacctc tggttatggg
+    28921 ctctggttct ggactctggt ggtataaaca ttttctcctt ctgcccttct aggcctaatg
+    28981 gcggaagagg ttttctgatg ttactaacat ctagatttct gcactgtcct ttatttgata
+    29041 ttttagctct tccaatacaa ggataattaa ctattaagag ctgtatttaa ttctaggttg
+    29101 agtaactgat aatggtttgt cctttccttg atggacccta actgatataa ctaataaact
+    29161 gacttctgat actatgtctt attagtgtat gaaattctga tgtgaataaa tgcatgacac
+    29221 atgcttgttg actaatcaaa ctatagcaga ggcagaggaa ggaacctcat gacctataaa
+    29281 tactaagata tcacatagtc attttagaac caaaggttcc tcagtttagg tctcaaacaa
+    29341 acttctctat ggatagtgta atactcataa tgtagaaaag agagatctaa ttttggataa
+    29401 tttaatcttt tttttcatct ccaaatacta gggaaataag agtttacaag acaatgtctc
+    29461 taccataaaa gaggttaaaa tttagtggta ggaatataca atgagcagat taagtacatt
+    29521 agtaggaaaa acactaaata ttataagaaa gagcccataa ttgtagcaga gtttatagac
+    29581 agggctttaa gcccagttaa aattaaaaaa aaatagcttc ttagttgaga taacatataa
+    29641 gttaggactt aaagtatgag tacaagatag acaaggcaaa atgagggaaa gacatcaccc
+    29701 agagtaaatg aacagcatgt acaaagctaa cagagtcaaa tgcagaaatc caaattctct
+    29761 agattgactg gggtaatttt gtcaatgcac tcaagtatgc atctgtaaca gtgtgtgttc
+    29821 ttatgtgtgc atggaatgtt tgttcatgga gcataagaaa ttgtgtagac atatagacac
+    29881 atctgtatgt gtatatcaga gaatgtttac attgctacaa gattttatat gactacatgc
+    29941 acaagcattc atgctacatg tcagtttggt atatttttcc tgtaagatgt gtacttatgt
+//
+

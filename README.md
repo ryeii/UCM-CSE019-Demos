@@ -16,6 +16,7 @@ No build, package installation, backend, or external assets are needed. All link
 - Board scanning: tic-tac-toe and a 19×19 Go board
 - Password guessing: six examples and 6,000 generated common-pattern candidates, simulated locally
 - Object references: integer reassignment and list mutation
+- DNA sequence lab: a synthetic candidate ORF and real human HBB in a 30 kb chromosome 11 reference region
 
 The Go example uses a capture-and-liberties heuristic, not a full Go engine. Timing in the large demos measures local JavaScript execution; the displayed Python illustrates the same algorithm.
 
@@ -44,3 +45,27 @@ is not licensed. See [LICENSE](LICENSE) for the full terms.
 
 Suggested attribution: “UC Merced CSE019 Fall 2026, Instructor: Ryan Zhiyu An —
 [UCM-CSE019-Demos](https://github.com/ryeii/UCM-CSE019-Demos), CC BY-NC 4.0.”
+
+## Bioinformatics data and checks
+
+The HBB demo uses NCBI RefSeq **NC_000011.10:5210001–5240000** (GRCh38, plus strand),
+**NM_000518.5** (transcript), and **NP_000509.1** (protein), downloaded October 12, 2026.
+The raw GenBank records, FASTA, and generated offline data are in `demos/data/`.
+It requires no live database connection.
+
+The short demo finds a first-ATG / first-in-frame-stop candidate on one synthetic
+strand, not a confirmed gene. The larger demo searches a known 30-base marker,
+then uses database annotation to extract HBB, reverse-complement it, splice its
+three exons, and slice its coding sequence. A final, explicitly constructed HbS
+substitution illustrates **c.20A>T**, **p.Glu7Val** (traditional mature-chain β6
+Glu→Val). Reference DNA is not patient data; locating a gene is not a diagnosis.
+
+Run `python3 scripts/build-hbb-data.py` to regenerate and validate the packaged
+data from the archived records. It checks genomic-to-transcript reconstruction,
+CDS coordinates, complete protein translation, marker uniqueness within the
+region, and the reference codon at the HbS site. Run
+`node --test tests/dna.test.cjs` to verify the scanning and slicing algorithms.
+The on-page sources link to NCBI Gene, RefSeq, ClinVar, and GeneReviews.
+
+The repository license applies to our original instructional materials and code;
+NCBI-sourced records remain attributed to their original sources.
