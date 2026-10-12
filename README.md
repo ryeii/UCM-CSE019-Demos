@@ -54,11 +54,11 @@ The raw GenBank records, FASTA, and generated offline data are in `demos/data/`.
 It requires no live database connection.
 
 The short demo finds a first-ATG / first-in-frame-stop candidate on one synthetic
-strand, not a confirmed gene. The larger demo searches a known 30-base marker,
-then uses database annotation to extract HBB, reverse-complement it, splice its
-three exons, and slice its coding sequence. A final, explicitly constructed HbS
-substitution illustrates **c.20A>T**, **p.Glu7Val** (traditional mature-chain β6
-Glu→Val). Reference DNA is not patient data; locating a gene is not a diagnosis.
+strand, not a confirmed gene. The larger demo only searches a supplied 30-base
+HBB marker using a for loop, string slicing, and an equality comparison. It ends
+after reporting the exact match in the 30 kb region. The marker is already
+prepared in the same orientation as the reference DNA. Reference DNA is not
+patient data; locating a marker is not a diagnosis.
 
 Run `python3 scripts/build-hbb-data.py` to regenerate and validate the packaged
 data from the archived records. It checks genomic-to-transcript reconstruction,
